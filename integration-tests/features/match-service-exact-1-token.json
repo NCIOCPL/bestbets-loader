@@ -1,0 +1,31 @@
+{
+  "took": 1,
+  "timed_out": false,
+  "_shards": {
+    "total": 1,
+    "successful": 1,
+    "skipped": 0,
+    "failed": 0
+  },
+  "hits": {
+    "total": 1,
+    "max_score": 7.647687,
+    "hits": [
+      {
+        "_index": "bestbets_live_v1_20230110_111003",
+        "_type": "synonyms",
+        "_id": "36268_16",
+        "_score": 7.647687,
+        "_source": {
+          "category": "What Is a Tumor?",
+          "contentid": "36268",
+          "synonym": "tumor",
+          "language": "en",
+          "is_negated": false,
+          "is_exact": true,
+          "tokencount": 1
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "tokens": [
+    {
+      "token": "ci",
+      "start_offset": 0,
+      "end_offset": 3,
+      "type": "<ALPHANUM>",
+      "position": 0
+    }
+  ]
+}

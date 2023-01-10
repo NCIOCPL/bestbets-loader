@@ -1,0 +1,25 @@
+{
+  "tokens": [
+    {
+      "token": "cáncer",
+      "start_offset": 0,
+      "end_offset": 6,
+      "type": "<ALPHANUM>",
+      "position": 0
+    },
+    {
+      "token": "de",
+      "start_offset": 7,
+      "end_offset": 9,
+      "type": "<ALPHANUM>",
+      "position": 1
+    },
+    {
+      "token": "faringe",
+      "start_offset": 10,
+      "end_offset": 17,
+      "type": "<ALPHANUM>",
+      "position": 2
+    }
+  ]
+}

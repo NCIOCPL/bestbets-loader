@@ -1,0 +1,13 @@
+{
+  "_index": "bestbets_v1_20230104_170448",
+  "_type": "categorydisplay",
+  "_id": "1095708",
+  "_version": 1,
+  "found": true,
+  "_source": {
+    "contentid": "1095708",
+    "name": "Multimedia",
+    "weight": 55,
+    "content": "<div class=\"managed list\">\n<ul>\n<li class=\"general-list-item general list-item\">\n<!-- cgvSnListItemGeneral -->\n<!-- Image -->\n<!-- End Image -->\n<div class=\"title-and-desc title desc container\"><a class=\"title\" href=\"/espanol/multimedia\">Recursos multimedia del NCI</a><!-- start description -->\n<div class=\"description\"><p class=\"body\">Colección de videos e infografías del Instituto Nacional del Cáncer (NCI).</p></div><!-- end description --></div><!-- end title & desc container -->\n</li></ul>\n</div>"
+  }
+}
