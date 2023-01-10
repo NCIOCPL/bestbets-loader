@@ -1,0 +1,31 @@
+{
+  "took": 1,
+  "timed_out": false,
+  "_shards": {
+    "total": 1,
+    "successful": 1,
+    "skipped": 0,
+    "failed": 0
+  },
+  "hits": {
+    "total": 1,
+    "max_score": 4.687701,
+    "hits": [
+      {
+        "_index": "bestbets_live_v1_20230110_111003",
+        "_type": "synonyms",
+        "_id": "35682_19",
+        "_score": 4.687701,
+        "_source": {
+          "category": "Human Participant Protection",
+          "contentid": "35682",
+          "synonym": "cancer",
+          "language": "en",
+          "is_negated": true,
+          "is_exact": false,
+          "tokencount": 1
+        }
+      }
+    ]
+  }
+}

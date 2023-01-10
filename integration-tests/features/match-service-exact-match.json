@@ -1,0 +1,31 @@
+{
+  "took": 184,
+  "timed_out": false,
+  "_shards": {
+    "total": 1,
+    "successful": 1,
+    "skipped": 0,
+    "failed": 0
+  },
+  "hits": {
+    "total": 1,
+    "max_score": 13.96114,
+    "hits": [
+      {
+        "_index": "bestbets_live_v1_20230110_111003",
+        "_type": "synonyms",
+        "_id": "35978_0",
+        "_score": 13.96114,
+        "_source": {
+          "category": "Chronic Myelogenous Leukemia (CML)",
+          "contentid": "35978",
+          "synonym": "Chronic Myelogenous Leukemia (CML)",
+          "language": "en",
+          "is_negated": false,
+          "is_exact": false,
+          "tokencount": 4
+        }
+      }
+    ]
+  }
+}
