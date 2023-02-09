@@ -2,9 +2,9 @@
 export LOG_FILE=run/bestbets-loader.log
 
 if [[ $THIS_HOST_NAME == ncias-p* ]]
-then 
+then
     export NOTIFICATION_EMAIL_RECIPIENTS=$NCIALERT_EMAIL
-else 
+else
     export NOTIFICATION_EMAIL_RECIPIENTS=$DEV_EMAIL
 fi
 
@@ -60,7 +60,7 @@ function email_notification
 
 
 
-nvm use 8
+nvm use
 node index.js
 
 

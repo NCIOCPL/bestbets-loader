@@ -22,3 +22,5 @@ Feature: Token analyzer works as called by API.
       | Cáncer de faringe                 | token-analyzer-multiple-tokens-spanish  |
       | 18004CANCER                       | token-analyzer-alphanumeric             |
       | 1-800-4-CANCER                    | token-analyzer-phone-number             |
+      | 1572                              | token-analyzer-numeric                  |
+      | Tamoxifeno (Nolvadex®)            | token-analyzer-non-alphanumeric         |

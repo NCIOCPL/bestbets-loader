@@ -1,11 +1,14 @@
 {
-  "_index": "bestbets_v1_20230104_170448",
-  "_type": "categorydisplay",
+  "_index": "bestbets_v1_20230202_132734",
+  "_type": "_doc",
   "_id": "860395",
   "_version": 1,
+  "_seq_no": 1981,
+  "_primary_term": 1,
   "found": true,
   "_source": {
     "contentid": "860395",
+    "record_type": "categoryDisplay",
     "name": "Survivorship",
     "weight": 20,
     "content": "<div class=\"managed list\">\n<ul>\n<li class=\"general-list-item general list-item\">\n<!-- cgvSnListItemGeneral -->\n<!-- Image -->\n<!-- End Image -->\n<div class=\"title-and-desc title desc container\"><a class=\"title\" href=\"/about-cancer/coping/survivorship\">Survivorship</a><!-- start description -->\n<div class=\"description\"><p class=\"body\">Many cancer survivors say that once treatment ended, it was hard to make a transition to a new way of life. Find out how to adjust to physical and emotional changes, deal with common family issues, and plan for follow-up care after treatment.</p></div><!-- end description --></div><!-- end title & desc container -->\n</li><li class=\"general-list-item general list-item\">\n<!-- cgvSnListItemGeneral -->\n<!-- Image -->\n<!-- End Image -->\n<div class=\"title-and-desc title desc container\"><a class=\"title\" href=\"http://cancercontrol.cancer.gov/ocs/\">Office of Cancer Survivorship</a><!-- start description -->\n<div class=\"description\"><p class=\"body\">Information about cancer survivorship research.</p></div><!-- end description --></div><!-- end title & desc container -->\n</li></ul>\n</div>"
