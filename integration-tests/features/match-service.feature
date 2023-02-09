@@ -12,9 +12,10 @@ Feature: Queries used by the Best Bets Match service.
           "bool": {
             "must": [
               { "range": { "tokencount": { "lte": 0 } } },
-              { "term": { "is_exact": 0 } },
+              { "term": { "is_exact": false } },
               { "term": { "language": "en" } },
-              { "match": { "synonym": { "query": null, "minimum_should_match": 0 } } }
+              { "match": { "synonym": { "query": null, "minimum_should_match": 0 } } },
+              { "term": { "record_type": "synonyms" } }
             ]
           }
         },
@@ -55,9 +56,10 @@ Feature: Queries used by the Best Bets Match service.
                           "bool": {
                               "must": [
                                   {"range": {"tokencount": {"lte": 0}}},
-                                  {"term": {"is_exact": 0}},
+                                  {"term": {"is_exact": false}},
                                   {"term": {"language": "en"}},
-                                  {"match": {"synonym": {"query": null, "minimum_should_match": 0}}}
+                                  {"match": {"synonym": {"query": null, "minimum_should_match": 0}}},
+                                  { "term": { "record_type": "synonyms" } }
                               ]
                           }
                       },
@@ -65,9 +67,10 @@ Feature: Queries used by the Best Bets Match service.
                           "bool": {
                               "must": [
                                   {"term": {"tokencount": 0}},
-                                  {"term": {"is_exact": 1}},
+                                  {"term": {"is_exact": true}},
                                   {"term": {"language": "en"}},
-                                  {"match": {"synonym": {"query": null, "minimum_should_match": 0}}}
+                                  {"match": {"synonym": {"query": null, "minimum_should_match": 0}}},
+                                  { "term": { "record_type": "synonyms" } }
                               ]
                           }
                       }
@@ -98,7 +101,6 @@ Feature: Queries used by the Best Bets Match service.
       | maxTokenCount | searchTerm                       | dataFile      |
       | 5             | Time to End Cancer as We Know It | exact-5-token |
       | 1             | tumor                            | exact-1-token |
-      # CML has a synonym with the exact_match property set true.
-      | 4             | Chronic Myelogenous Leukemia CML | exact-match   |
-
-
+      # CML has synonyms with the exact_match property set true and the category false
+      | 4             | Chronic Myelogenous Leukemia CML | exact-match-false  |
+      | 3             | chronic myelocytic leukemia      | exact-match-true   |

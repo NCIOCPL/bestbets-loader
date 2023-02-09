@@ -3,6 +3,10 @@ Feature: Simple tests to verify that the way the data shows up in Elasticsearch 
   Background:
     * url esHost
 
+    # Useful constants
+    * def synonymRequestBody = { "query": { "term": { "record_type": "synonyms" } } }
+    * def categoryDisplayRequestBody = { "query": { "term": { "record_type": "categoryDisplay" } } }
+
   Scenario: All the documents are loaded.
 
     Given path 'bestbets_v1', '_count'
@@ -13,8 +17,11 @@ Feature: Simple tests to verify that the way the data shows up in Elasticsearch 
 
   Scenario Outline: synonyms documents are distinct from categorydisplay documents.
 
-    # Varying the path is tricky. https://stackoverflow.com/a/51362929/282194
-    Given path 'bestbets_v1/' + docType + '/_count'
+    * def body = { "query": { "term": { "record_type": null } } }
+    * body.query.term.record_type = docType
+
+    Given path 'bestbets_v1', '_count'
+    And request body
     When method get
     Then status 200
     And assert response.count == expectedCount
@@ -22,38 +29,45 @@ Feature: Simple tests to verify that the way the data shows up in Elasticsearch 
     Examples:
       | docType         | expectedCount |
       | synonyms        | 1737          |
-      | categorydisplay | 254           |
+      | categoryDisplay | 254           |
 
 
-  Scenario: synonyms document's hit metadata has a reasonable format.
+  Scenario: synonyms documents' hit metadata has a valid format.
 
-    Given path 'bestbets_v1', 'synonyms', '_count'
+    *   def body = synonymRequestBody
+
+    Given path 'bestbets_v1', '_count'
+    And request body
     When method get
     Then def size = response.count
+    And response.count > 0
 
-    Given path 'bestbets_v1', 'synonyms', '_search'
-    *   def body = {}
+    Given path 'bestbets_v1', '_search'
+
     *   body.size = size
+
     And request body
     When method get
     Then status 200
     And match each $.hits.hits[*]._index == '#regex bestbets_v1_\\d{8}_\\d+'
     And match each $.hits.hits[*]._id == '#regex \\d+_\\d+'
-    And match each $.hits.hits[*]._type == 'synonyms'
 
 
   Scenario: Individual synonyms documents have the correct shape
 
-    Given path 'bestbets_v1', 'synonyms', '_count'
+    *   def body = synonymRequestBody
+
+    Given path 'bestbets_v1', '_count'
+    And request body
     When method get
     Then def size = response.count
 
-    Given path 'bestbets_v1', 'synonyms', '_search'
-    *   def body = {}
+    Given path 'bestbets_v1', '_search'
     *   body.size = size
     And request body
     When method get
     Then status 200
+    And assert response.hits.total.value > 0
     And match each $.hits.hits[*]._source contains
       """
       {
@@ -63,14 +77,16 @@ Feature: Simple tests to verify that the way the data shows up in Elasticsearch 
         language: '#string',
         is_negated: '#boolean',
         is_exact: '#boolean',
-        tokencount: '##number'
+        tokencount: '##number',
+        record_type: '#string'
       }
       """
 
 
   Scenario: Compare synonyms live fetch to a saved response.
 
-    Given path 'bestbets_v1', 'synonyms', '_count'
+    Given path 'bestbets_v1', '_count'
+    And request synonymRequestBody
     When method get
     Then def size = response.count
 
@@ -80,8 +96,8 @@ Feature: Simple tests to verify that the way the data shows up in Elasticsearch 
     * def sorted = karate.sort(blob.hits.hits, x => x._id)
     * def expected = get sorted[*]._source
 
-    Given path 'bestbets_v1', 'synonyms', '_search'
-    *   def body = {}
+    Given path 'bestbets_v1', '_search'
+    *   def body = synonymRequestBody
     *   body.size = size
     And request body
     When method get
@@ -91,31 +107,32 @@ Feature: Simple tests to verify that the way the data shows up in Elasticsearch 
     And match hits == expected
 
 
-  Scenario: categorydisplay document's hit metadata has the right format.
+  Scenario: categorydisplay documents' hit metadata has a valid format.
 
-    Given path 'bestbets_v1', 'categorydisplay', '_count'
+    Given path 'bestbets_v1', '_count'
+    And request categoryDisplayRequestBody
     When method get
     Then def size = response.count
 
-    Given path 'bestbets_v1', 'categorydisplay', '_search'
-    *   def body = {}
+    Given path 'bestbets_v1', '_search'
+    *   def body = categoryDisplayRequestBody
     *   body.size = size
     And request body
     When method get
     Then status 200
     And match each $.hits.hits[*]._index == '#regex bestbets_v1_\\d{8}_\\d+'
     And match each $.hits.hits[*]._id == '#regex \\d+'
-    And match each $.hits.hits[*]._type == 'categorydisplay'
 
 
   Scenario: Individual categorydisplay documents have the correct shape
 
-    Given path 'bestbets_v1', 'categorydisplay', '_count'
+    Given path 'bestbets_v1', '_count'
+    And request categoryDisplayRequestBody
     When method get
     Then def size = response.count
 
-    Given path 'bestbets_v1', 'categorydisplay', '_search'
-    *   def body = {}
+    Given path 'bestbets_v1', '_search'
+    *   def body = categoryDisplayRequestBody
     *   body.size = size
     And request body
     When method get
@@ -126,14 +143,16 @@ Feature: Simple tests to verify that the way the data shows up in Elasticsearch 
         contentid: '#regex \\d+',
         name: '#string',
         weight: '#number',
-        content: '#string'
+        content: '#string',
+        record_type: '#string'
       }
       """
 
 
   Scenario: Compare categorydisplay live fetch to a saved response.
 
-    Given path 'bestbets_v1', 'categorydisplay', '_count'
+    Given path 'bestbets_v1', '_count'
+    And request categoryDisplayRequestBody
     When method get
     Then def size = response.count
 
@@ -141,8 +160,9 @@ Feature: Simple tests to verify that the way the data shows up in Elasticsearch 
     * def blob = read('smoketest-categorydisplay-blob.json')
     * def expected = get blob.hits.hits[*]._source
 
-    Given path 'bestbets_v1', 'categorydisplay', '_search'
-    *   def body = {'sort': ['contentid']}
+    Given path 'bestbets_v1', '_search'
+    *   def body = categoryDisplayRequestBody
+    *   body.sort = ['contentid']
     *   body.size = size
     And request body
     When method get

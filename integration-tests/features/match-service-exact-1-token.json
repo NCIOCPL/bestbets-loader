@@ -1,5 +1,5 @@
 {
-  "took": 1,
+  "took": 3,
   "timed_out": false,
   "_shards": {
     "total": 1,
@@ -8,17 +8,21 @@
     "failed": 0
   },
   "hits": {
-    "total": 1,
-    "max_score": 7.647687,
+    "total": {
+      "value": 1,
+      "relation": "eq"
+    },
+    "max_score": 7.6501193,
     "hits": [
       {
-        "_index": "bestbets_live_v1_20230110_111003",
-        "_type": "synonyms",
+        "_index": "bestbets_v1_20230202_132734",
+        "_type": "_doc",
         "_id": "36268_16",
-        "_score": 7.647687,
+        "_score": 7.6501193,
         "_source": {
           "category": "What Is a Tumor?",
           "contentid": "36268",
+          "record_type": "synonyms",
           "synonym": "tumor",
           "language": "en",
           "is_negated": false,

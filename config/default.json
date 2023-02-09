@@ -20,7 +20,9 @@
                 "config": {
                     "eshosts": [ "http://localhost:9200" ],
                     "settingsPath": "es-mappings/settings.json",
-                    "analyzer": "nostem"
+                    "analyzer": "nostem",
+                    // A good value for this might be 14 times the number of ES nodes.
+                    "concurrencyLimit": 14
                 }
                 //"socketLimit": 80
             }

@@ -8,7 +8,7 @@ Feature: Category Display queries work as when called by API..
     * def blob = read('categorydisplay-' + categoryID + '.json')
     * def expected = blob._source
 
-    Given path 'bestbets_v1', 'categorydisplay', categoryID
+    Given path 'bestbets_v1', '_doc', categoryID
     When method get
     Then status 200
     And match response._source == expected
