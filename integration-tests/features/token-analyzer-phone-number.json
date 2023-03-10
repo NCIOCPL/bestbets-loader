@@ -1,0 +1,32 @@
+{
+  "tokens": [
+    {
+      "token": "1",
+      "start_offset": 0,
+      "end_offset": 1,
+      "type": "<NUM>",
+      "position": 0
+    },
+    {
+      "token": "800",
+      "start_offset": 2,
+      "end_offset": 5,
+      "type": "<NUM>",
+      "position": 1
+    },
+    {
+      "token": "4",
+      "start_offset": 6,
+      "end_offset": 7,
+      "type": "<NUM>",
+      "position": 2
+    },
+    {
+      "token": "cancer",
+      "start_offset": 8,
+      "end_offset": 14,
+      "type": "<ALPHANUM>",
+      "position": 3
+    }
+  ]
+}

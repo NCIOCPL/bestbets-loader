@@ -1,0 +1,26 @@
+version: "3.7"
+
+services:
+    elasticsearch:
+        image: elasticsearch:7.17.5
+        ## All of the ES settings can be set via the environment
+        ## vars.
+        environment:
+            - discovery.type=single-node
+            - ES_JAVA_OPTS=-Xms750m -Xmx750m
+            - xpack.security.enabled=false
+        ## These exposed ports are for debugging only. .NET +
+        ## Docker + MacOS == bad scene. (.NET always wants to
+        ## use the hosts name, and on a mac that is actually
+        ## a virtual machine, and not on the same network.)
+        ports:
+            - "9200:9200"
+            - "9300:9300"
+        networks:
+            bestbetsloader:
+                aliases:
+                    - elasticsearch
+
+
+networks:
+    bestbetsloader:

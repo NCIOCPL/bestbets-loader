@@ -1,0 +1,35 @@
+{
+  "took": 4,
+  "timed_out": false,
+  "_shards": {
+    "total": 1,
+    "successful": 1,
+    "skipped": 0,
+    "failed": 0
+  },
+  "hits": {
+    "total": {
+      "value": 1,
+      "relation": "eq"
+    },
+    "max_score": 4.6892667,
+    "hits": [
+      {
+        "_index": "bestbets_v1_20230202_132734",
+        "_type": "_doc",
+        "_id": "35682_19",
+        "_score": 4.6892667,
+        "_source": {
+          "category": "Human Participant Protection",
+          "contentid": "35682",
+          "record_type": "synonyms",
+          "synonym": "cancer",
+          "language": "en",
+          "is_negated": true,
+          "is_exact": false,
+          "tokencount": 1
+        }
+      }
+    ]
+  }
+}

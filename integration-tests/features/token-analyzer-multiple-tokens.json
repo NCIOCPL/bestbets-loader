@@ -1,0 +1,39 @@
+{
+    "tokens": [
+        {
+            "token": "time",
+            "start_offset": 0,
+            "end_offset": 4,
+            "type": "<ALPHANUM>",
+            "position": 0
+        },
+        {
+            "token": "end",
+            "start_offset": 8,
+            "end_offset": 11,
+            "type": "<ALPHANUM>",
+            "position": 2
+        },
+        {
+            "token": "cancer",
+            "start_offset": 12,
+            "end_offset": 18,
+            "type": "<ALPHANUM>",
+            "position": 3
+        },
+        {
+            "token": "we",
+            "start_offset": 22,
+            "end_offset": 24,
+            "type": "<ALPHANUM>",
+            "position": 5
+        },
+        {
+            "token": "know",
+            "start_offset": 25,
+            "end_offset": 29,
+            "type": "<ALPHANUM>",
+            "position": 6
+        }
+    ]
+}

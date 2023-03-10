@@ -1,0 +1,35 @@
+{
+  "took": 6,
+  "timed_out": false,
+  "_shards": {
+    "total": 1,
+    "successful": 1,
+    "skipped": 0,
+    "failed": 0
+  },
+  "hits": {
+    "total": {
+      "value": 1,
+      "relation": "eq"
+    },
+    "max_score": 17.336643,
+    "hits": [
+      {
+        "_index": "bestbets_v1_20230202_132734",
+        "_type": "_doc",
+        "_id": "20002_0",
+        "_score": 17.336643,
+        "_source": {
+          "category": "Time to End Cancer as We Know It",
+          "contentid": "20002",
+          "record_type": "synonyms",
+          "synonym": "Time to End Cancer as We Know It",
+          "language": "en",
+          "is_negated": false,
+          "is_exact": false,
+          "tokencount": 5
+        }
+      }
+    ]
+  }
+}

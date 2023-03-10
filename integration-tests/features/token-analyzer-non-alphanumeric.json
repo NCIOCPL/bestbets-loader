@@ -1,0 +1,25 @@
+{
+  "tokens": [
+    {
+      "token": "tamoxifeno",
+      "start_offset": 0,
+      "end_offset": 10,
+      "type": "<ALPHANUM>",
+      "position": 0
+    },
+    {
+      "token": "nolvadex",
+      "start_offset": 12,
+      "end_offset": 20,
+      "type": "<ALPHANUM>",
+      "position": 1
+    },
+    {
+      "token": "®",
+      "start_offset": 20,
+      "end_offset": 21,
+      "type": "<EMOJI>",
+      "position": 2
+    }
+  ]
+}

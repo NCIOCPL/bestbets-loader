@@ -1,5 +1,7 @@
 config/local.json
 
+.vscode
+
 # Logs
 logs
 *.log
@@ -61,3 +63,12 @@ typings/
 
 # next.js build output
 .next
+
+
+## Custom
+
+.vscode
+.DS_Store
+
+config/local.json
+integration-tests/target
