@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cde:BestBetsCategory xsi:schemaLocation="http://www.example.org/CDESchema CDESchema.xsd" xmlns:cde="http://www.example.org/CDESchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<CategoryId>
+1095859
+</CategoryId>
+<CategoryName><![CDATA[Biopsia de seno]]></CategoryName>
+<CategoryWeight>60</CategoryWeight>
+<IsExactMatch>false</IsExactMatch>
+<Language>es-us</Language>
+<Display>true</Display>
+<IncludeSynonyms></IncludeSynonyms>
+<ExcludeSynonyms></ExcludeSynonyms>
+<CategoryDisplay>
+<![CDATA[
+<div class="managed list">
+<ul>
+<li class="general-list-item general list-item">
+<!-- cgvSnListItemGeneral -->
+<!-- Image -->
+<!-- End Image -->
+<div class="title-and-desc title desc container"><a class="title" href="/espanol/tipos/seno/significado-cambios-en-los-senos">Significado de cambios y afecciones de los senos</a><!-- start description -->
+<div class="description"><p class="body">Información sobre los cambios y padecimientos específicos del seno, y sobre cómo se detectan, diagnostican y tratan estos cambios. Explica que todos los cambios en el seno deben ser revisados por un médico, a pesar de que la mayoría de estos cambios no son cáncer.</p></div><!-- end description --></div><!-- end title & desc container -->
+</li></ul>
+</div>
+
+]]>
+</CategoryDisplay>
+</cde:BestBetsCategory>	

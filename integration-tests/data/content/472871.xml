@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cde:BestBetsCategory xsi:schemaLocation="http://www.example.org/CDESchema CDESchema.xsd" xmlns:cde="http://www.example.org/CDESchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<CategoryId>
+472871
+</CategoryId>
+<CategoryName><![CDATA[Tipos de leucemia]]></CategoryName>
+<CategoryWeight>30</CategoryWeight>
+<IsExactMatch>false</IsExactMatch>
+<Language>es-us</Language>
+<Display>true</Display>
+<IncludeSynonyms><synonym IsExactMatch="false"><![CDATA[tipos de leucemias]]></synonym>
+</IncludeSynonyms>
+<ExcludeSynonyms></ExcludeSynonyms>
+<CategoryDisplay>
+<![CDATA[
+<div class="managed list">
+<ul>
+<li class="general-list-item general list-item">
+<!-- cgvSnListItemGeneral -->
+<!-- Image -->
+<!-- End Image -->
+<div class="title-and-desc title desc container"><a class="title" href="no slot content">Lo que usted necesita saber sobre&#153; la leucemia: Tipos de leucemia</a><!-- start description -->
+<div class="description"><p class="body">Secci&oacute;n del folleto en l&iacute;nea "Lo que usted necesita saber sobre&#153; la leucemia."</p></div><!-- end description --></div><!-- end title & desc container -->
+</li></ul>
+</div>
+
+]]>
+</CategoryDisplay>
+</cde:BestBetsCategory>	

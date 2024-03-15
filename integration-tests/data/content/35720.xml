@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cde:BestBetsCategory xsi:schemaLocation="http://www.example.org/CDESchema CDESchema.xsd" xmlns:cde="http://www.example.org/CDESchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<CategoryId>
+35720
+</CategoryId>
+<CategoryName><![CDATA[Division of Cancer Biology (DCB)]]></CategoryName>
+<CategoryWeight>100</CategoryWeight>
+<IsExactMatch>false</IsExactMatch>
+<Language>en</Language>
+<Display>true</Display>
+<IncludeSynonyms><synonym IsExactMatch="false"><![CDATA[Division of Cancer Biology]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[DCB]]></synonym>
+</IncludeSynonyms>
+<ExcludeSynonyms></ExcludeSynonyms>
+<CategoryDisplay>
+<![CDATA[
+<div class="managed list">
+<ul>
+<li class="general-list-item general list-item">
+<!-- cgvSnListItemGeneral -->
+<!-- Image -->
+<!-- End Image -->
+<div class="title-and-desc title desc container"><a class="title" href="/about-nci/organization/dcb">Division of Cancer Biology</a><!-- start description -->
+<div class="description"><p class="body">The Division of Cancer Biology (DCB) supports basic research in all areas of cancer biology at academic institutions and research foundations across the United States. As part of NCI, DCB provides funding for research that investigates the basic biology behind cancer.</p></div><!-- end description --></div><!-- end title & desc container -->
+</li></ul>
+</div>
+
+]]>
+</CategoryDisplay>
+</cde:BestBetsCategory>	

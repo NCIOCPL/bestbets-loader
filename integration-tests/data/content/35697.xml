@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cde:BestBetsCategory xsi:schemaLocation="http://www.example.org/CDESchema CDESchema.xsd" xmlns:cde="http://www.example.org/CDESchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<CategoryId>
+35697
+</CategoryId>
+<CategoryName><![CDATA[Office of Acquisitions]]></CategoryName>
+<CategoryWeight>100</CategoryWeight>
+<IsExactMatch>false</IsExactMatch>
+<Language>en</Language>
+<Display>false</Display>
+<IncludeSynonyms><synonym IsExactMatch="false"><![CDATA[OA]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[RCB]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[Research Contracts Branch]]></synonym>
+</IncludeSynonyms>
+<ExcludeSynonyms></ExcludeSynonyms>
+<CategoryDisplay>
+<![CDATA[
+<div class="managed list">
+<ul>
+</ul>
+</div>
+
+]]>
+</CategoryDisplay>
+</cde:BestBetsCategory>	

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cde:BestBetsCategory xsi:schemaLocation="http://www.example.org/CDESchema CDESchema.xsd" xmlns:cde="http://www.example.org/CDESchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<CategoryId>
+35760
+</CategoryId>
+<CategoryName><![CDATA[Adenocarcinoma]]></CategoryName>
+<CategoryWeight>15</CategoryWeight>
+<IsExactMatch>
+true</IsExactMatch>
+<Language>en</Language>
+<Display>true</Display>
+<IncludeSynonyms><synonym IsExactMatch="
+true"><![CDATA[adneocarcinoma]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[adenocacinoma]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[adencarcinoma]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[adino carcinoma]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[adenocarcinomas]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[adenocarcoma]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[adnocarcenoma]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[adenocarinoma]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[adenocarcenoma]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[andenocarcinoma]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[adeno cancer]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[adeno carcinoma]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[adnocarcinoma]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[treatment adenocarcinoma]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[adema carcinoma]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[adrenocarcinoma]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[adeno]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[adenacarcinoma]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[adeno carcenoma]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[adenocarsinoma]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[andocarcinoma]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[adinocarcinoma]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[adenocarcinom]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[adenocarcinoma cancer]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[adno carcinoma]]></synonym>
+</IncludeSynonyms>
+<ExcludeSynonyms><synonym IsExactMatch="false"><![CDATA[liver]]></synonym><synonym IsExactMatch="false"><![CDATA[appendix]]></synonym><synonym IsExactMatch="false"><![CDATA[de]]></synonym></ExcludeSynonyms>
+<CategoryDisplay>
+<![CDATA[
+<div class="managed list">
+<ul>
+<li class="general-list-item general list-item">
+<!-- cgvSnListItemGeneral -->
+<!-- Image -->
+<!-- End Image -->
+<div class="title-and-desc title desc container"><a class="title" href="/about-cancer/understanding/what-is-cancer">What Is Cancer?</a><!-- start description -->
+<div class="description"><p class="body">Understand how cancer cells differ from normal cells and genetics changes that cause cancer to grow and spread.</p></div><!-- end description --></div><!-- end title & desc container -->
+</li></ul>
+</div>
+
+]]>
+</CategoryDisplay>
+</cde:BestBetsCategory>	

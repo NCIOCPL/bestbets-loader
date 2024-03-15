@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cde:BestBetsCategory xsi:schemaLocation="http://www.example.org/CDESchema CDESchema.xsd" xmlns:cde="http://www.example.org/CDESchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<CategoryId>
+35776
+</CategoryId>
+<CategoryName><![CDATA[Paylines]]></CategoryName>
+<CategoryWeight>20</CategoryWeight>
+<IsExactMatch>false</IsExactMatch>
+<Language>en</Language>
+<Display>true</Display>
+<IncludeSynonyms><synonym IsExactMatch="false"><![CDATA[pay line]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[payline]]></synonym>
+</IncludeSynonyms>
+<ExcludeSynonyms><synonym IsExactMatch="false"><![CDATA[SBIR]]></synonym></ExcludeSynonyms>
+<CategoryDisplay>
+<![CDATA[
+<div class="managed list">
+<ul>
+<li class="general-list-item general list-item">
+<!-- cgvSnListItemGeneral -->
+<!-- Image -->
+<!-- End Image -->
+<div class="title-and-desc title desc container"><a class="title" href="https://deainfo.nci.nih.gov/grantspolicies/FinalFundLtr.htm">NCI Funding Policy for Fiscal Year 2016 Research Project Grant (RPG) Awards</a><!-- start description -->
+<div class="description"><p class="body">Information from NCI's Division of Extramural Activities.</p></div><!-- end description --></div><!-- end title & desc container -->
+</li><li class="general-list-item general list-item">
+<!-- cgvSnListItemGeneral -->
+<!-- Image -->
+<!-- End Image -->
+<div class="title-and-desc title desc container"><a class="title" href="https://gsspubssl.nci.nih.gov/blog/articles?funding_patterns/2016">Awards of R01 and R21 Grants in FY 2016</a><!-- start description -->
+<div class="description"><p class="body">Graphs and tables that summarize funding patterns for research project grants in Fiscal Year 2016.</p></div><!-- end description --></div><!-- end title & desc container -->
+</li></ul>
+</div>
+
+]]>
+</CategoryDisplay>
+</cde:BestBetsCategory>	

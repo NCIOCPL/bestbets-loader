@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cde:BestBetsCategory xsi:schemaLocation="http://www.example.org/CDESchema CDESchema.xsd" xmlns:cde="http://www.example.org/CDESchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<CategoryId>
+36170
+</CategoryId>
+<CategoryName><![CDATA[Health Communications Internship Program]]></CategoryName>
+<CategoryWeight>100</CategoryWeight>
+<IsExactMatch>false</IsExactMatch>
+<Language>en</Language>
+<Display>true</Display>
+<IncludeSynonyms><synonym IsExactMatch="false"><![CDATA[Health Communications Internship]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[HCIP]]></synonym>
+</IncludeSynonyms>
+<ExcludeSynonyms></ExcludeSynonyms>
+<CategoryDisplay>
+<![CDATA[
+<div class="managed list">
+<ul>
+<li class="general-list-item general list-item">
+<!-- cgvSnListItemGeneral -->
+<!-- Image -->
+<!-- End Image -->
+<div class="title-and-desc title desc container"><a class="title" href="https://hcip.nci.nih.gov/hcip/index.html">Health Communications Internship Program</a><!-- start description -->
+<div class="description"><p class="body">Offers paid six-month and one-year internships in health communications and science writing; provides students who are completing their master's or doctorate degrees with an opportunity to be a part of vital health and science communications projects.</p></div><!-- end description --></div><!-- end title & desc container -->
+</li></ul>
+</div>
+
+]]>
+</CategoryDisplay>
+</cde:BestBetsCategory>	

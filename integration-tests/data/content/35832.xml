@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cde:BestBetsCategory xsi:schemaLocation="http://www.example.org/CDESchema CDESchema.xsd" xmlns:cde="http://www.example.org/CDESchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<CategoryId>
+35832
+</CategoryId>
+<CategoryName><![CDATA[Carcinoma]]></CategoryName>
+<CategoryWeight>7</CategoryWeight>
+<IsExactMatch>
+true</IsExactMatch>
+<Language>en</Language>
+<Display>true</Display>
+<IncludeSynonyms><synonym IsExactMatch="
+true"><![CDATA[what is carcinoma]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[carcenoma]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[carsinoma]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[carcinomas]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[carcinoma cancer]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[carinoma]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[carsonoma]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[carsanoma]]></synonym>
+</IncludeSynonyms>
+<ExcludeSynonyms></ExcludeSynonyms>
+<CategoryDisplay>
+<![CDATA[
+<div class="managed list">
+<ul>
+<li class="general-list-item general list-item">
+<!-- cgvSnListItemGeneral -->
+<!-- Image -->
+<!-- End Image -->
+<div class="title-and-desc title desc container"><a class="title" href="/about-cancer/understanding/what-is-cancer">What Is Cancer?</a><!-- start description -->
+<div class="description"><p class="body">Understand how cancer cells differ from normal cells and genetics changes that cause cancer to grow and spread.</p></div><!-- end description --></div><!-- end title & desc container -->
+</li></ul>
+</div>
+
+]]>
+</CategoryDisplay>
+</cde:BestBetsCategory>	

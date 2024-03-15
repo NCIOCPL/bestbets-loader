@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cde:BestBetsCategory xsi:schemaLocation="http://www.example.org/CDESchema CDESchema.xsd" xmlns:cde="http://www.example.org/CDESchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<CategoryId>
+36751
+</CategoryId>
+<CategoryName><![CDATA[Squamous Cell Carcinoma]]></CategoryName>
+<CategoryWeight>11</CategoryWeight>
+<IsExactMatch>false</IsExactMatch>
+<Language>en</Language>
+<Display>true</Display>
+<IncludeSynonyms><synonym IsExactMatch="false"><![CDATA[squamis]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[sqamous]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[epidermoid]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[squamus]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[squamous]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[squamish]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[squmous]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[squamouscell]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[squamos]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[squamas]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[squamouscellcarcinoma]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[SCC]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[sqaumous]]></synonym>
+</IncludeSynonyms>
+<ExcludeSynonyms><synonym IsExactMatch="false"><![CDATA[rectal]]></synonym><synonym IsExactMatch="false"><![CDATA[breast]]></synonym><synonym IsExactMatch="false"><![CDATA[oral]]></synonym><synonym IsExactMatch="false"><![CDATA[tongue]]></synonym><synonym IsExactMatch="false"><![CDATA[stomach]]></synonym><synonym IsExactMatch="false"><![CDATA[atypical]]></synonym><synonym IsExactMatch="false"><![CDATA[metastatic]]></synonym><synonym IsExactMatch="false"><![CDATA[epithelial]]></synonym><synonym IsExactMatch="false"><![CDATA[sarcoma]]></synonym><synonym IsExactMatch="false"><![CDATA[nasal]]></synonym><synonym IsExactMatch="false"><![CDATA[rectum]]></synonym><synonym IsExactMatch="false"><![CDATA[neck]]></synonym><synonym IsExactMatch="false"><![CDATA[metaplasia]]></synonym><synonym IsExactMatch="false"><![CDATA[anus]]></synonym><synonym IsExactMatch="false"><![CDATA[bladder]]></synonym><synonym IsExactMatch="false"><![CDATA[cervix]]></synonym><synonym IsExactMatch="false"><![CDATA[anal]]></synonym><synonym IsExactMatch="false"><![CDATA[mammary]]></synonym><synonym IsExactMatch="false"><![CDATA[intraepithelial]]></synonym><synonym IsExactMatch="false"><![CDATA[lung]]></synonym><synonym IsExactMatch="false"><![CDATA[skin]]></synonym></ExcludeSynonyms>
+<CategoryDisplay>
+<![CDATA[
+<div class="managed list">
+<ul>
+<li class="general-list-item general list-item">
+<!-- cgvSnListItemGeneral -->
+<!-- Image -->
+<!-- End Image -->
+<div class="title-and-desc title desc container"><a class="title" href="/about-cancer/understanding/what-is-cancer">What Is Cancer?</a><!-- start description -->
+<div class="description"><p class="body">Understand how cancer cells differ from normal cells and genetics changes that cause cancer to grow and spread.</p></div><!-- end description --></div><!-- end title & desc container -->
+</li></ul>
+</div>
+
+]]>
+</CategoryDisplay>
+</cde:BestBetsCategory>	

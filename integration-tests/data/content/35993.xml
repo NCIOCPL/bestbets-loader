@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cde:BestBetsCategory xsi:schemaLocation="http://www.example.org/CDESchema CDESchema.xsd" xmlns:cde="http://www.example.org/CDESchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<CategoryId>
+35993
+</CategoryId>
+<CategoryName><![CDATA[Health Disparities]]></CategoryName>
+<CategoryWeight>20</CategoryWeight>
+<IsExactMatch>false</IsExactMatch>
+<Language>en</Language>
+<Display>true</Display>
+<IncludeSynonyms><synonym IsExactMatch="false"><![CDATA[race]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[racial]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[minority                                          ]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[ethnic]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[underserved]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[special populations]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[ethnicity]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[Asian                                             ]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[disparities]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[disparity]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[minorities]]></synonym>
+</IncludeSynonyms>
+<ExcludeSynonyms><synonym IsExactMatch="false"><![CDATA[supplement]]></synonym><synonym IsExactMatch="false"><![CDATA[race definitions]]></synonym><synonym IsExactMatch="false"><![CDATA[Network]]></synonym><synonym IsExactMatch="false"><![CDATA[race for the cure]]></synonym><synonym IsExactMatch="false"><![CDATA[week]]></synonym><synonym IsExactMatch="false"><![CDATA[race classifications]]></synonym><synonym IsExactMatch="false"><![CDATA[race codes]]></synonym><synonym IsExactMatch="false"><![CDATA[in Spanish]]></synonym><synonym IsExactMatch="false"><![CDATA[summit]]></synonym><synonym IsExactMatch="false"><![CDATA[Partnership]]></synonym><synonym IsExactMatch="false"><![CDATA[Branch]]></synonym><synonym IsExactMatch="false"><![CDATA[Center]]></synonym></ExcludeSynonyms>
+<CategoryDisplay>
+<![CDATA[
+<div class="managed list">
+<ul>
+<li class="general-list-item general list-item">
+<!-- cgvSnListItemGeneral -->
+<!-- Image -->
+<!-- End Image -->
+<div class="title-and-desc title desc container"><a class="title" href="/research/areas/disparities">Cancer Health Disparities Research</a><!-- start description -->
+<div class="description"><p class="body">NCI is working to understand and address cancer health disparities, such as the higher cancer death rates, less frequent use of proven screening tests, and higher rates of advanced cancer diagnoses among certain populations as compared with others.</p></div><!-- end description --></div><!-- end title & desc container -->
+</li><li class="general-list-item general list-item">
+<!-- cgvSnListItemGeneral -->
+<!-- Image -->
+<!-- End Image -->
+<div class="title-and-desc title desc container"><a class="title" href="/about-nci/organization/crchd">NCI Center to Reduce Cancer Health Disparities (CRCHD)</a><!-- start description -->
+<div class="description"><p class="body">The Center to Reduce Cancer Health Disparities (CRCHD) is central to NCI’s efforts to reduce the unequal burden of cancer in our society via basic and community research, as well as networks, and to train the next generation of competitive researchers from diverse populations in cancer and cancer health disparities research.</p></div><!-- end description --></div><!-- end title & desc container -->
+</li></ul>
+</div>
+
+]]>
+</CategoryDisplay>
+</cde:BestBetsCategory>	

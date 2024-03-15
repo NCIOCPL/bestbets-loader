@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cde:BestBetsCategory xsi:schemaLocation="http://www.example.org/CDESchema CDESchema.xsd" xmlns:cde="http://www.example.org/CDESchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<CategoryId>
+35851
+</CategoryId>
+<CategoryName><![CDATA[C&aacute;ncer infantil]]></CategoryName>
+<CategoryWeight>25</CategoryWeight>
+<IsExactMatch>false</IsExactMatch>
+<Language>es-us</Language>
+<Display>true</Display>
+<IncludeSynonyms><synonym IsExactMatch="false"><![CDATA[nino]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[cancer pediatrico]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[jovenes]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[cancer infantil]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[tumores pediatricos]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[ni&ntilde;os]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[ninos]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[infantil]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[ni&ntilde;o]]></synonym>
+</IncludeSynonyms>
+<ExcludeSynonyms><synonym IsExactMatch="false"><![CDATA[fibroadenoma]]></synonym></ExcludeSynonyms>
+<CategoryDisplay>
+<![CDATA[
+<div class="managed list">
+<ul>
+<li class="general-list-item general list-item">
+<!-- cgvSnListItemGeneral -->
+<!-- Image -->
+<!-- End Image -->
+<div class="title-and-desc title desc container"><a class="title" href="/espanol/tipos/infantil">Cánceres infantiles</a><!-- start description -->
+<div class="description"><p class="body">Portal del NCI de información sobre cánceres infantiles.</p></div><!-- end description --></div><!-- end title & desc container -->
+</li></ul>
+</div>
+
+]]>
+</CategoryDisplay>
+</cde:BestBetsCategory>	

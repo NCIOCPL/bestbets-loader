@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cde:BestBetsCategory xsi:schemaLocation="http://www.example.org/CDESchema CDESchema.xsd" xmlns:cde="http://www.example.org/CDESchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<CategoryId>
+35518
+</CategoryId>
+<CategoryName><![CDATA[ASCUS]]></CategoryName>
+<CategoryWeight>30</CategoryWeight>
+<IsExactMatch>false</IsExactMatch>
+<Language>en</Language>
+<Display>true</Display>
+<IncludeSynonyms><synonym IsExactMatch="false"><![CDATA[ASC-US]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[atypical squamous cells]]></synonym>
+</IncludeSynonyms>
+<ExcludeSynonyms></ExcludeSynonyms>
+<CategoryDisplay>
+<![CDATA[
+<div class="managed list">
+<ul>
+<li class="general-list-item general list-item">
+<!-- cgvSnListItemGeneral -->
+<!-- Image -->
+<!-- End Image -->
+<div class="title-and-desc title desc container"><a class="title" href="/types/cervical/understanding-cervical-changes">Understanding Cervical Changes: Next Steps After an Abnormal Screening Test</a><!-- start description -->
+<div class="description"><p class="body">Learn what test results mean if a recent Pap test showed cell changes in the cervix or an HPV test was positive, including that not all cervical changes mean cancer; find out the importance of follow-up care and treatment for abnormal results. </p></div><!-- end description --></div><!-- end title & desc container -->
+</li></ul>
+</div>
+
+]]>
+</CategoryDisplay>
+</cde:BestBetsCategory>	

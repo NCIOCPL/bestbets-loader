@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cde:BestBetsCategory xsi:schemaLocation="http://www.example.org/CDESchema CDESchema.xsd" xmlns:cde="http://www.example.org/CDESchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<CategoryId>
+637153
+</CategoryId>
+<CategoryName><![CDATA[Lumpectomy]]></CategoryName>
+<CategoryWeight>20</CategoryWeight>
+<IsExactMatch>false</IsExactMatch>
+<Language>en</Language>
+<Display>true</Display>
+<IncludeSynonyms></IncludeSynonyms>
+<ExcludeSynonyms></ExcludeSynonyms>
+<CategoryDisplay>
+<![CDATA[
+<div class="managed list">
+<ul>
+<li class="general-list-item general list-item">
+<!-- cgvSnListItemGeneral -->
+<!-- Image -->
+<!-- End Image -->
+<div class="title-and-desc title desc container"><a class="title" href="/types/breast/surgery-choices">Surgery Choices for Women with DCIS or Breast Cancer</a><!-- start description -->
+<div class="description"><p class="body">Women diagnosed with DCIS or breast cancer may face a decision about which surgery to have. The choices of breast-sparing surgery, mastectomy, or mastectomy with reconstruction are explained and compared.</p></div><!-- end description --></div><!-- end title & desc container -->
+</li><li class="general-list-item general list-item">
+<!-- cgvSnListItemGeneral -->
+<!-- Image -->
+<!-- End Image -->
+<div class="title-and-desc title desc container"><a class="title" href="/types/breast/patient/breast-treatment-pdq">Breast Cancer Treatment (PDQ®)–Patient Version</a><!-- start description -->
+<div class="description"><p class="body">Breast cancer treatment depends on several factors and can include combinations of surgery, chemotherapy, radiation, hormone, and targeted therapy. Learn more about how breast cancer is diagnosed and treated in this expert-reviewed summary.</p></div><!-- end description --></div><!-- end title & desc container -->
+</li><li class="general-list-item general list-item">
+<!-- cgvSnListItemGeneral -->
+<!-- Image -->
+<!-- End Image -->
+<div class="title-and-desc title desc container"><a class="title" href="/types/breast/hp/breast-treatment-pdq">Breast Cancer Treatment (PDQ®)–Health Professional Version</a><!-- start description -->
+<div class="description"><p class="body">Breast cancer treatment commonly includes various combinations of surgery, radiation therapy, chemotherapy, and hormone therapy. Prognosis and selection of therapy is influenced by clinical and pathology features. Get detailed information about breast cancer in this summary for clinicians.</p></div><!-- end description --></div><!-- end title & desc container -->
+</li></ul>
+</div>
+
+]]>
+</CategoryDisplay>
+</cde:BestBetsCategory>	

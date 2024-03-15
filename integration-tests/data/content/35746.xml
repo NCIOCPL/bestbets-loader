@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cde:BestBetsCategory xsi:schemaLocation="http://www.example.org/CDESchema CDESchema.xsd" xmlns:cde="http://www.example.org/CDESchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<CategoryId>
+35746
+</CategoryId>
+<CategoryName><![CDATA[Medicina complementaria y alternativa]]></CategoryName>
+<CategoryWeight>20</CategoryWeight>
+<IsExactMatch>false</IsExactMatch>
+<Language>es-us</Language>
+<Display>true</Display>
+<IncludeSynonyms><synonym IsExactMatch="false"><![CDATA[alternativas]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[alternativa]]></synonym>
+</IncludeSynonyms>
+<ExcludeSynonyms></ExcludeSynonyms>
+<CategoryDisplay>
+<![CDATA[
+<div class="managed list">
+<ul>
+<li class="general-list-item general list-item">
+<!-- cgvSnListItemGeneral -->
+<!-- Image -->
+<!-- End Image -->
+<div class="title-and-desc title desc container"><a class="title" href="/espanol/cancer/sobrellevar/dia-a-dia/fe-y-espiritualidad/espiritualidad-pdq">La espiritualidad en el tratamiento del cáncer (PDQ®)–Versión para pacientes</a><!-- start description -->
+<div class="description"><p class="body">Resumen de información revisada por expertos acerca de la influencia que tiene la espiritualidad y la religión en las personas que tienen cáncer.  Se discuten varios métodos sobre manejo e intervención.</p></div><!-- end description --></div><!-- end title & desc container -->
+</li><li class="general-list-item general list-item">
+<!-- cgvSnListItemGeneral -->
+<!-- Image -->
+<!-- End Image -->
+<div class="title-and-desc title desc container"><a class="title" href="/espanol/cancer/sobrellevar/dia-a-dia/fe-y-espiritualidad/espiritualidad-pro-pdq">La espiritualidad en el tratamiento del cáncer (PDQ®)–Versión para profesionales de salud</a><!-- start description -->
+<div class="description"><p class="body">Resumen de información revisada por expertos acerca de la influencia que tiene la espiritualidad y la religión en las personas que tienen cáncer.  Se discuten varios métodos sobre manejo e intervención.</p></div><!-- end description --></div><!-- end title & desc container -->
+</li></ul>
+</div>
+
+]]>
+</CategoryDisplay>
+</cde:BestBetsCategory>	

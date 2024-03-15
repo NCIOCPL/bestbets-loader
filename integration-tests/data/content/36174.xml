@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cde:BestBetsCategory xsi:schemaLocation="http://www.example.org/CDESchema CDESchema.xsd" xmlns:cde="http://www.example.org/CDESchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<CategoryId>
+36174
+</CategoryId>
+<CategoryName><![CDATA[C&aacute;ncer relacionado con el SIDA]]></CategoryName>
+<CategoryWeight>20</CategoryWeight>
+<IsExactMatch>false</IsExactMatch>
+<Language>es-us</Language>
+<Display>true</Display>
+<IncludeSynonyms><synonym IsExactMatch="false"><![CDATA[SIDA]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[VIH]]></synonym>
+</IncludeSynonyms>
+<ExcludeSynonyms></ExcludeSynonyms>
+<CategoryDisplay>
+<![CDATA[
+<div class="managed list">
+<ul>
+<li class="general-list-item general list-item">
+<!-- cgvSnListItemGeneral -->
+<!-- Image -->
+<!-- End Image -->
+<div class="title-and-desc title desc container"><a class="title" href="/espanol/cancer/causas-prevencion/riesgo/germenes-infecciosos/hoja-informativa-vih">Infección por VIH y el riesgo de cáncer</a><!-- start description -->
+<div class="description"><p class="body">Hoja informativa que describe el mayor riesgo de ciertos tipos de cánceres que presentan las personas con infección por VIH. Dichos cánceres son el sarcoma de Kaposi, los linfomas de Hodgkin y no Hodgkin, y los cánceres de ano, de cérvix, de hígado y de pulmón. Trata también de lo que las personas con infección por VIH pueden hacer para reducir su riesgo de cáncer o para detectar temprano la enfermedad. </p></div><!-- end description --></div><!-- end title & desc container -->
+</li></ul>
+</div>
+
+]]>
+</CategoryDisplay>
+</cde:BestBetsCategory>	

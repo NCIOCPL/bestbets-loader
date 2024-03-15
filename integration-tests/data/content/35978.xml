@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cde:BestBetsCategory xsi:schemaLocation="http://www.example.org/CDESchema CDESchema.xsd" xmlns:cde="http://www.example.org/CDESchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<CategoryId>
+35978
+</CategoryId>
+<CategoryName><![CDATA[Chronic Myelogenous Leukemia (CML)]]></CategoryName>
+<CategoryWeight>10</CategoryWeight>
+<IsExactMatch>false</IsExactMatch>
+<Language>en</Language>
+<Display>true</Display>
+<IncludeSynonyms><synonym IsExactMatch="
+true"><![CDATA[chronic myelogenous leukemia]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[cml leukemia]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[chronic myeloid]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[chronic myelocytic leukemia]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[chronic leukemia]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[myeloid leukemia]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[cml treatment]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[chronic myeloid leukaemia]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[cronic leukemia]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[chronic myelogenous]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[myelogenous leukemia]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[chronic granulocytic leukemia]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[chronic myloid leukemia]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[chronic myeloid leukemia]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[cml prognosis]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[myelogenous]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[myeloid]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[CML]]></synonym>
+</IncludeSynonyms>
+<ExcludeSynonyms></ExcludeSynonyms>
+<CategoryDisplay>
+<![CDATA[
+<div class="managed list">
+<ul>
+<li class="general-list-item general list-item">
+<!-- cgvSnListItemGeneral -->
+<!-- Image -->
+<!-- End Image -->
+<div class="title-and-desc title desc container"><a class="title" href="/types/leukemia/patient/cml-treatment-pdq">Chronic Myelogenous Leukemia Treatment (PDQ®)–Patient Version</a><!-- start description -->
+<div class="description"><p class="body">Chronic myelogenous leukemia treatment may include targeted therapy, chemotherapy, stem cell transplant, donor lymphocyte infusion, and/or surgery. Learn more about the diagnosis and treatment of CML in this expert-reviewed summary.</p></div><!-- end description --></div><!-- end title & desc container -->
+</li><li class="general-list-item general list-item">
+<!-- cgvSnListItemGeneral -->
+<!-- Image -->
+<!-- End Image -->
+<div class="title-and-desc title desc container"><a class="title" href="/types/leukemia/patient/child-aml-treatment-pdq">Childhood Acute Myeloid Leukemia/Other Myeloid Malignancies Treatment (PDQ®)–Patient Version</a><!-- start description -->
+<div class="description"><p class="body">Childhood acute myeloid leukemia and other myeloid malignancies treatment may include chemotherapy, radiation therapy, stem cell transplant, and targeted therapy. Learn more about AML and myelodysplastic/myeloproliferative diseases in this expert-reviewed summary.</p></div><!-- end description --></div><!-- end title & desc container -->
+</li></ul>
+</div>
+
+]]>
+</CategoryDisplay>
+</cde:BestBetsCategory>	

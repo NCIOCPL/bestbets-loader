@@ -27,10 +27,10 @@ jobs:
 
     steps:
       - name: Get the code
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Set up node
-        uses:  actions/setup-node@v3
+        uses:  actions/setup-node@v4
         with:
           node-version-file: '.nvmrc'
           cache: 'npm'
@@ -48,7 +48,7 @@ jobs:
           CI: true
 
       - name: Archive test artifacts
-        uses: actions/upload-artifact@v1
+        uses: actions/upload-artifact@v4
         with:
           name: test-results
           path: coverage
@@ -73,10 +73,10 @@ jobs:
     steps:
 
       - name: Get the code
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Set up node
-        uses:  actions/setup-node@v3
+        uses:  actions/setup-node@v4
         with:
           node-version-file: '.nvmrc'
           cache: 'npm'
@@ -98,14 +98,9 @@ jobs:
             {
               \"pipeline\": {
                   \"source\": {
-                      \"module\": \"./lib/sources/github-bestbets-source\",
+                      \"module\": \"./lib/sources/filesystem-bestbets-source\",
                       \"config\": {
-                          \"repoUrl\": \"https://github.com/nciocpl/bestbets-content\",
-                          \"branchName\": \"integration-testing\",
-                          \"resourcesPath\": \"/content\",
-                          \"authentication\": {
-                              \"token\": \"${GITHUB_TOKEN}\"
-                          }
+                          \"contentPath\": \"integration-tests/data/content\"
                       }
                   },
                   \"transformers\": [
@@ -150,7 +145,7 @@ jobs:
               exit 0
 
       - name: Upload Integration test results
-        uses: actions/upload-artifact@v1
+        uses: actions/upload-artifact@v4
         with:
           name: integration-test-results
           path: integration-tests/target

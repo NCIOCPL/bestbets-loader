@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cde:BestBetsCategory xsi:schemaLocation="http://www.example.org/CDESchema CDESchema.xsd" xmlns:cde="http://www.example.org/CDESchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<CategoryId>
+36326
+</CategoryId>
+<CategoryName><![CDATA[Leucemia]]></CategoryName>
+<CategoryWeight>25</CategoryWeight>
+<IsExactMatch>false</IsExactMatch>
+<Language>es-us</Language>
+<Display>true</Display>
+<IncludeSynonyms><synonym IsExactMatch="false"><![CDATA[leucemias]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[luecemia]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[lucemia]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[leusemia]]></synonym>
+</IncludeSynonyms>
+<ExcludeSynonyms><synonym IsExactMatch="false"><![CDATA[linfoblastica]]></synonym><synonym IsExactMatch="false"><![CDATA[linfobl&aacute;stica]]></synonym><synonym IsExactMatch="false"><![CDATA[ni&ntilde;os]]></synonym><synonym IsExactMatch="false"><![CDATA[mielogena]]></synonym><synonym IsExactMatch="false"><![CDATA[linfatica]]></synonym><synonym IsExactMatch="false"><![CDATA[agudas]]></synonym><synonym IsExactMatch="false"><![CDATA[promielocitica]]></synonym><synonym IsExactMatch="false"><![CDATA[linfoide]]></synonym><synonym IsExactMatch="false"><![CDATA[linfocitica]]></synonym><synonym IsExactMatch="false"><![CDATA[aguda]]></synonym><synonym IsExactMatch="false"><![CDATA[mieloblastica]]></synonym><synonym IsExactMatch="false"><![CDATA[mieloide]]></synonym><synonym IsExactMatch="false"><![CDATA[cronica]]></synonym></ExcludeSynonyms>
+<CategoryDisplay>
+<![CDATA[
+<div class="managed list">
+<ul>
+<li class="general-list-item general list-item">
+<!-- cgvSnListItemGeneral -->
+<!-- Image -->
+<!-- End Image -->
+<div class="title-and-desc title desc container"><a class="title" href="/espanol/tipos/leucemia">Leucemia—Versión para pacientes</a><!-- start description -->
+<div class="description"><p class="body">Información del Instituto Nacional del Cáncer sobre el tratamiento de la leucemia, así como referencias a estudios clínicos, investigación, estadísticas y otros temas relacionados con este tipo de cáncer.</p></div><!-- end description --></div><!-- end title & desc container -->
+</li></ul>
+</div>
+
+]]>
+</CategoryDisplay>
+</cde:BestBetsCategory>	

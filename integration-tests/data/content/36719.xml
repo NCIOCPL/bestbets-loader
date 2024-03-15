@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cde:BestBetsCategory xsi:schemaLocation="http://www.example.org/CDESchema CDESchema.xsd" xmlns:cde="http://www.example.org/CDESchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<CategoryId>
+36719
+</CategoryId>
+<CategoryName><![CDATA[Cutaneous T-Cell Lymphoma]]></CategoryName>
+<CategoryWeight>25</CategoryWeight>
+<IsExactMatch>false</IsExactMatch>
+<Language>en</Language>
+<Display>true</Display>
+<IncludeSynonyms><synonym IsExactMatch="false"><![CDATA[CTCL]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[cutaneous]]></synonym>
+</IncludeSynonyms>
+<ExcludeSynonyms><synonym IsExactMatch="false"><![CDATA[melanoma]]></synonym><synonym IsExactMatch="false"><![CDATA[leukemia]]></synonym><synonym IsExactMatch="false"><![CDATA[B cell]]></synonym><synonym IsExactMatch="false"><![CDATA[angioimmunoblastic]]></synonym><synonym IsExactMatch="false"><![CDATA[peripheral]]></synonym><synonym IsExactMatch="false"><![CDATA[hepatosplenic]]></synonym><synonym IsExactMatch="false"><![CDATA[angiosarcoma]]></synonym><synonym IsExactMatch="false"><![CDATA[Bcell]]></synonym><synonym IsExactMatch="false"><![CDATA[ALL]]></synonym><synonym IsExactMatch="false"><![CDATA[lymphoblastic]]></synonym><synonym IsExactMatch="false"><![CDATA[leiomyosarcoma]]></synonym><synonym IsExactMatch="false"><![CDATA[CAR-T]]></synonym><synonym IsExactMatch="false"><![CDATA[CAR-T cell]]></synonym><synonym IsExactMatch="false"><![CDATA[car t cell]]></synonym></ExcludeSynonyms>
+<CategoryDisplay>
+<![CDATA[
+<div class="managed list">
+<ul>
+<li class="general-list-item general list-item">
+<!-- cgvSnListItemGeneral -->
+<!-- Image -->
+<!-- End Image -->
+<div class="title-and-desc title desc container"><a class="title" href="/types/lymphoma/patient/mycosis-fungoides-treatment-pdq">Mycosis Fungoides (Including Sézary Syndrome) Treatment (PDQ®)–Patient Version</a><!-- start description -->
+<div class="description"><p class="body">Mycosis fungoides (including Sézary Syndrome) treatment options include photodynamic therapy, radiation therapy, chemotherapy, and biologic therapy. Learn more about newly diagnosed and recurrent mycosis fungoides and its treatment in this expert-reviewed summary.</p></div><!-- end description --></div><!-- end title & desc container -->
+</li><li class="general-list-item general list-item">
+<!-- cgvSnListItemGeneral -->
+<!-- Image -->
+<!-- End Image -->
+<div class="title-and-desc title desc container"><a class="title" href="/types/lymphoma/hp/mycosis-fungoides-treatment-pdq">Mycosis Fungoides (Including Sézary Syndrome) Treatment (PDQ®)–Health Professional Version</a><!-- start description -->
+<div class="description"><p class="body">Mycosis fungoides and Sézary syndrome are neoplasias of malignant T lymphocytes that affect the skin. Learn about the clinical presentation, prognosis, staging, and treatment for mycosis fungoides and Sézary syndrome in this expert-reviewed summary.</p></div><!-- end description --></div><!-- end title & desc container -->
+</li></ul>
+</div>
+
+]]>
+</CategoryDisplay>
+</cde:BestBetsCategory>	

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cde:BestBetsCategory xsi:schemaLocation="http://www.example.org/CDESchema CDESchema.xsd" xmlns:cde="http://www.example.org/CDESchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<CategoryId>
+35974
+</CategoryId>
+<CategoryName><![CDATA[C&aacute;ncer de la m&eacute;dula &oacute;sea]]></CategoryName>
+<CategoryWeight>15</CategoryWeight>
+<IsExactMatch>false</IsExactMatch>
+<Language>es-us</Language>
+<Display>true</Display>
+<IncludeSynonyms><synonym IsExactMatch="
+true"><![CDATA[cancer de medula osea]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[medula osea]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[medula]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[cancer de medula]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[cancer medula]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[cancer de la medula osea]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[m&eacute;dula &oacute;sea]]></synonym>
+</IncludeSynonyms>
+<ExcludeSynonyms></ExcludeSynonyms>
+<CategoryDisplay>
+<![CDATA[
+<div class="managed list">
+<ul>
+<li class="general-list-item general list-item">
+<!-- cgvSnListItemGeneral -->
+<!-- Image -->
+<!-- End Image -->
+<div class="title-and-desc title desc container"><a class="title" href="/espanol/tipos/leucemia">Leucemia—Versión para pacientes</a><!-- start description -->
+<div class="description"><p class="body">Información del Instituto Nacional del Cáncer sobre el tratamiento de la leucemia, así como referencias a estudios clínicos, investigación, estadísticas y otros temas relacionados con este tipo de cáncer.</p></div><!-- end description --></div><!-- end title & desc container -->
+</li><li class="general-list-item general list-item">
+<!-- cgvSnListItemGeneral -->
+<!-- Image -->
+<!-- End Image -->
+<div class="title-and-desc title desc container"><a class="title" href="/espanol/tipos/mieloma-multiple">Neoplasias de células plasmáticas (incluso mieloma múltiple)—Versión para pacientes</a><!-- start description -->
+<div class="description"><p class="body">Información del Instituto Nacional del Cáncer sobre el tratamiento del mieloma múltiple y otras neoplasias de células plasmáticas, así como referencias a estudios clínicos, investigación, estadísticas y otros temas relacionados.</p></div><!-- end description --></div><!-- end title & desc container -->
+</li></ul>
+</div>
+
+]]>
+</CategoryDisplay>
+</cde:BestBetsCategory>	

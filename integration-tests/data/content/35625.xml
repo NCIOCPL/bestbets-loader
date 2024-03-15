@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cde:BestBetsCategory xsi:schemaLocation="http://www.example.org/CDESchema CDESchema.xsd" xmlns:cde="http://www.example.org/CDESchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<CategoryId>
+35625
+</CategoryId>
+<CategoryName><![CDATA[C&aacute;ncer de ri&ntilde;&oacute;n]]></CategoryName>
+<CategoryWeight>23</CategoryWeight>
+<IsExactMatch>false</IsExactMatch>
+<Language>es-us</Language>
+<Display>true</Display>
+<IncludeSynonyms><synonym IsExactMatch="false"><![CDATA[rion]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[renales]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[ri&ntilde;&oacute;n]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[ri&ntilde;on]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[rinon]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[rinones]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[cancer renal]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[ri&ntilde;ones]]></synonym>
+</IncludeSynonyms>
+<ExcludeSynonyms></ExcludeSynonyms>
+<CategoryDisplay>
+<![CDATA[
+<div class="managed list">
+<ul>
+<li class="general-list-item general list-item">
+<!-- cgvSnListItemGeneral -->
+<!-- Image -->
+<!-- End Image -->
+<div class="title-and-desc title desc container"><a class="title" href="/espanol/tipos/rinon">Cáncer de riñón (células renales)—Versión para pacientes</a><!-- start description -->
+<div class="description"><p class="body">Información del Instituto Nacional del Cáncer sobre el tratamiento del cáncer de riñón, así como referencias a estudios clínicos, investigación, estadísticas y otros temas relacionados con este tipo de cáncer.</p></div><!-- end description --></div><!-- end title & desc container -->
+</li><li class="general-list-item general list-item">
+<!-- cgvSnListItemGeneral -->
+<!-- Image -->
+<!-- End Image -->
+<div class="title-and-desc title desc container"><a class="title" href="/espanol/tipos/comunes">Tipos comunes de cáncer</a><!-- start description -->
+<div class="description"><p class="body">La lista de cánceres comunes incluye cánceres que se diagnostican con mayor frecuencia en Estados Unidos. Esta página ofrece las estadísticas de incidencia y mortalidad más recientes para estos tipos de cancer.</p></div><!-- end description --></div><!-- end title & desc container -->
+</li></ul>
+</div>
+
+]]>
+</CategoryDisplay>
+</cde:BestBetsCategory>	

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cde:BestBetsCategory xsi:schemaLocation="http://www.example.org/CDESchema CDESchema.xsd" xmlns:cde="http://www.example.org/CDESchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<CategoryId>
+35926
+</CategoryId>
+<CategoryName><![CDATA[Waldenstr&ouml;m Macroglobulinemia]]></CategoryName>
+<CategoryWeight>25</CategoryWeight>
+<IsExactMatch>false</IsExactMatch>
+<Language>en</Language>
+<Display>true</Display>
+<IncludeSynonyms><synonym IsExactMatch="false"><![CDATA[Waldenstrom]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[Waldenstrom's]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[WM]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[low grade lymphoma]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[lymphoplasmacytic lymphoma]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[macroglobulinemia]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[indolent]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[Waldenstroms]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[Waldestrom]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[Waldenstr&ouml;m]]></synonym>
+</IncludeSynonyms>
+<ExcludeSynonyms><synonym IsExactMatch="false"><![CDATA[Linehan]]></synonym></ExcludeSynonyms>
+<CategoryDisplay>
+<![CDATA[
+<div class="managed list">
+<ul>
+<li class="general-list-item general list-item">
+<!-- cgvSnListItemGeneral -->
+<!-- Image -->
+<!-- End Image -->
+<div class="title-and-desc title desc container"><a class="title" href="/types/lymphoma/patient/adult-nhl-treatment-pdq">Adult Non-Hodgkin Lymphoma Treatment (PDQ®)–Patient Version</a><!-- start description -->
+<div class="description"><p class="body">Non-Hodgkin lymphoma (NHL) options include chemotherapy, radiation, targeted therapy, plasmapheresis, surveillance, stem cell transplant, and surgery. Learn more about types of NHL and treatments in this expert-reviewed summary.</p></div><!-- end description --></div><!-- end title & desc container -->
+</li><li class="general-list-item general list-item">
+<!-- cgvSnListItemGeneral -->
+<!-- Image -->
+<!-- End Image -->
+<div class="title-and-desc title desc container"><a class="title" href="/types/lymphoma/hp/adult-nhl-treatment-pdq">Adult Non-Hodgkin Lymphoma Treatment (PDQ®)–Health Professional Version</a><!-- start description -->
+<div class="description"><p class="body">Non-Hodgkin lymphoma treatment options include chemotherapy, radiation, targeted therapy, plasmapheresis, surveillance, stem cell transplant, and surgery. Get comprehensive information on Non-Hodgkin classification and treatment in this clinician summary.</p></div><!-- end description --></div><!-- end title & desc container -->
+</li></ul>
+</div>
+
+]]>
+</CategoryDisplay>
+</cde:BestBetsCategory>	
