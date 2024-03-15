@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cde:BestBetsCategory xsi:schemaLocation="http://www.example.org/CDESchema CDESchema.xsd" xmlns:cde="http://www.example.org/CDESchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<CategoryId>
+36209
+</CategoryId>
+<CategoryName><![CDATA[Bone Marrow Cancer]]></CategoryName>
+<CategoryWeight>20</CategoryWeight>
+<IsExactMatch>false</IsExactMatch>
+<Language>en</Language>
+<Display>true</Display>
+<IncludeSynonyms><synonym IsExactMatch="false"><![CDATA[bonemarrow]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[marrow]]></synonym>
+</IncludeSynonyms>
+<ExcludeSynonyms><synonym IsExactMatch="false"><![CDATA[testing]]></synonym><synonym IsExactMatch="false"><![CDATA[aspiration]]></synonym><synonym IsExactMatch="false"><![CDATA[biopsy]]></synonym><synonym IsExactMatch="false"><![CDATA[donor]]></synonym><synonym IsExactMatch="false"><![CDATA[transplantation]]></synonym><synonym IsExactMatch="false"><![CDATA[test]]></synonym><synonym IsExactMatch="false"><![CDATA[transplant]]></synonym><synonym IsExactMatch="false"><![CDATA[suppression]]></synonym><synonym IsExactMatch="false"><![CDATA[donation]]></synonym><synonym IsExactMatch="false"><![CDATA[failure]]></synonym></ExcludeSynonyms>
+<CategoryDisplay>
+<![CDATA[
+<div class="managed list">
+<ul>
+<li class="general-list-item general list-item">
+<!-- cgvSnListItemGeneral -->
+<!-- Image -->
+<!-- End Image -->
+<div class="title-and-desc title desc container"><a class="title" href="/types/leukemia">Leukemia—Patient Version</a><!-- start description -->
+<div class="description"><p class="body">Information about leukemia treatment, clinical trials, research, statistics, and other topics.</p></div><!-- end description --></div><!-- end title & desc container -->
+</li><li class="general-list-item general list-item">
+<!-- cgvSnListItemGeneral -->
+<!-- Image -->
+<!-- End Image -->
+<div class="title-and-desc title desc container"><a class="title" href="/types/myeloma">Plasma Cell Neoplasms (Including Multiple Myeloma)—Patient Version</a><!-- start description -->
+<div class="description"><p class="body">Information about multiple myeloma and other plasma cell neoplasms. Learn about treatment, clinical trials, research, and statistics from the National Cancer Institute.</p></div><!-- end description --></div><!-- end title & desc container -->
+</li></ul>
+</div>
+
+]]>
+</CategoryDisplay>
+</cde:BestBetsCategory>	

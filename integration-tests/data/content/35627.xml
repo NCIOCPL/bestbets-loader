@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cde:BestBetsCategory xsi:schemaLocation="http://www.example.org/CDESchema CDESchema.xsd" xmlns:cde="http://www.example.org/CDESchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<CategoryId>
+35627
+</CategoryId>
+<CategoryName><![CDATA[Tamoxifen &#40;Nolvadex&reg;&#41;]]></CategoryName>
+<CategoryWeight>55</CategoryWeight>
+<IsExactMatch>false</IsExactMatch>
+<Language>en</Language>
+<Display>true</Display>
+<IncludeSynonyms><synonym IsExactMatch="false"><![CDATA[tamoxifan]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[Nolvadex]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[tamoxifen]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[tamoxefin]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[tamoxafen]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[tamoxafin]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[tamoxiphen]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[tomoxifin]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[tamoxofin]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[tomoxifen]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[tamoxifene]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[tomaxifen]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[tamoxifin]]></synonym>
+</IncludeSynonyms>
+<ExcludeSynonyms><synonym IsExactMatch="false"><![CDATA[resistance]]></synonym></ExcludeSynonyms>
+<CategoryDisplay>
+<![CDATA[
+<div class="managed list">
+<ul>
+<li class="general-list-item general list-item">
+<!-- cgvSnListItemGeneral -->
+<!-- Image -->
+<!-- End Image -->
+<div class="title-and-desc title desc container"><a class="title" href="/about-cancer/treatment/drugs/tamoxifencitrate">Tamoxifen Citrate</a><!-- start description -->
+<div class="description"><p class="body">This page contains brief information about tamoxifen citrate and a collection of links to more information about the use of this drug, research results, and ongoing clinical trials.</p></div><!-- end description --></div><!-- end title & desc container -->
+</li><li class="general-list-item general list-item">
+<!-- cgvSnListItemGeneral -->
+<!-- Image -->
+<!-- End Image -->
+<div class="title-and-desc title desc container"><a class="title" href="/types/breast/breast-hormone-therapy-fact-sheet">Hormone Therapy for Breast Cancer</a><!-- start description -->
+<div class="description"><p class="body">A fact sheet that describes hormone therapy (including antiestrogens, LH-RH agonists, aromatase inhibitors, and SERMs) and its role in preventing and treating breast cancer. Includes information about possible side effects.</p></div><!-- end description --></div><!-- end title & desc container -->
+</li></ul>
+</div>
+
+]]>
+</CategoryDisplay>
+</cde:BestBetsCategory>	

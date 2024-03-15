@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cde:BestBetsCategory xsi:schemaLocation="http://www.example.org/CDESchema CDESchema.xsd" xmlns:cde="http://www.example.org/CDESchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<CategoryId>
+36480
+</CategoryId>
+<CategoryName><![CDATA[C&aacute;ncer de es&oacute;fago]]></CategoryName>
+<CategoryWeight>1</CategoryWeight>
+<IsExactMatch>false</IsExactMatch>
+<Language>es-us</Language>
+<Display>true</Display>
+<IncludeSynonyms><synonym IsExactMatch="false"><![CDATA[esofago]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[es&oacute;fago]]></synonym>
+</IncludeSynonyms>
+<ExcludeSynonyms><synonym IsExactMatch="false"><![CDATA[Barret]]></synonym><synonym IsExactMatch="false"><![CDATA[que]]></synonym></ExcludeSynonyms>
+<CategoryDisplay>
+<![CDATA[
+<div class="managed list">
+<ul>
+<li class="general-list-item general list-item">
+<!-- cgvSnListItemGeneral -->
+<!-- Image -->
+<!-- End Image -->
+<div class="title-and-desc title desc container"><a class="title" href="/espanol/tipos/esofago">Cáncer de esófago—Versión para pacientes</a><!-- start description -->
+<div class="description"><p class="body">Información del Instituto Nacional del Cáncer sobre el tratamiento, la prevención y los exámenes de detección del cáncer de esófago, así como referencias a estudios clínicos, investigación, estadísticas y otros temas relacionados con este tipo de cáncer.</p></div><!-- end description --></div><!-- end title & desc container -->
+</li></ul>
+</div>
+
+]]>
+</CategoryDisplay>
+</cde:BestBetsCategory>	

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cde:BestBetsCategory xsi:schemaLocation="http://www.example.org/CDESchema CDESchema.xsd" xmlns:cde="http://www.example.org/CDESchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<CategoryId>
+35564
+</CategoryId>
+<CategoryName><![CDATA[Hepatitis]]></CategoryName>
+<CategoryWeight>20</CategoryWeight>
+<IsExactMatch>false</IsExactMatch>
+<Language>en</Language>
+<Display>true</Display>
+<IncludeSynonyms><synonym IsExactMatch="false"><![CDATA[hep c]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[hcv]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[HBV]]></synonym>
+</IncludeSynonyms>
+<ExcludeSynonyms><synonym IsExactMatch="false"><![CDATA[A]]></synonym></ExcludeSynonyms>
+<CategoryDisplay>
+<![CDATA[
+<div class="managed list">
+<ul>
+<li class="general-list-item general list-item">
+<!-- cgvSnListItemGeneral -->
+<!-- Image -->
+<!-- End Image -->
+<div class="title-and-desc title desc container"><a class="title" href="/about-cancer/causes-prevention/risk/infectious-agents">Infectious Agents</a><!-- start description -->
+<div class="description"><p class="body">Certain infectious agents, including viruses, bacteria, and parasites, can cause cancer in infected people or increase the risk that cancer will form.</p></div><!-- end description --></div><!-- end title & desc container -->
+</li><li class="general-list-item general list-item">
+<!-- cgvSnListItemGeneral -->
+<!-- Image -->
+<!-- End Image -->
+<div class="title-and-desc title desc container"><a class="title" href="/types/liver/patient/liver-prevention-pdq">Liver (Hepatocellular) Cancer Prevention  (PDQ®)–Patient Version</a><!-- start description -->
+<div class="description"><p class="body">Liver cancer risk factors include hepatitis B and C, cirrhosis, and aflatoxin (poison from certain foods). Learn about these and other risk factors for liver cancer and how to prevent liver cancer in this expert-reviewed and evidence-based summary.</p></div><!-- end description --></div><!-- end title & desc container -->
+</li></ul>
+</div>
+
+]]>
+</CategoryDisplay>
+</cde:BestBetsCategory>	

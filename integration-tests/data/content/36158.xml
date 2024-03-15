@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cde:BestBetsCategory xsi:schemaLocation="http://www.example.org/CDESchema CDESchema.xsd" xmlns:cde="http://www.example.org/CDESchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<CategoryId>
+36158
+</CategoryId>
+<CategoryName><![CDATA[Embarazo]]></CategoryName>
+<CategoryWeight>20</CategoryWeight>
+<IsExactMatch>
+true</IsExactMatch>
+<Language>es-us</Language>
+<Display>true</Display>
+<IncludeSynonyms><synonym IsExactMatch="
+true"><![CDATA[cancer embarazo]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[cancer y embarazo]]></synonym>
+</IncludeSynonyms>
+<ExcludeSynonyms></ExcludeSynonyms>
+<CategoryDisplay>
+<![CDATA[
+<div class="managed list">
+<ul>
+<li class="general-list-item general list-item">
+<!-- cgvSnListItemGeneral -->
+<!-- Image -->
+<!-- End Image -->
+<div class="title-and-desc title desc container"><a class="title" href="/espanol/tipos/seno/paciente/tratamiento-seno-embarazo-pdq">Tratamiento del cáncer de seno (mama) durante el embarazo (PDQ®)–Versión para pacientes</a><!-- start description -->
+<div class="description"><p class="body">Resumen de información revisada por expertos acerca del tratamiento de cáncer de seno (mama) durante el embarazo.</p></div><!-- end description --></div><!-- end title & desc container -->
+</li><li class="general-list-item general list-item">
+<!-- cgvSnListItemGeneral -->
+<!-- Image -->
+<!-- End Image -->
+<div class="title-and-desc title desc container"><a class="title" href="/espanol/tipos/seno/pro/tratamiento-seno-embarazo-pdq">Tratamiento del cáncer de seno (mama) durante el embarazo (PDQ®)–Versión para profesionales de salud</a><!-- start description -->
+<div class="description"><p class="body">Resumen de información revisada por expertos acerca del tratamiento del  cáncer de seno (mama) durante el embarazo.</p></div><!-- end description --></div><!-- end title & desc container -->
+</li><li class="general-list-item general list-item">
+<!-- cgvSnListItemGeneral -->
+<!-- Image -->
+<!-- End Image -->
+<div class="title-and-desc title desc container"><a class="title" href="/espanol/tipos/trofoblastico-gestacion/paciente/tratamiento-etg-pdq">Tratamiento de la enfermedad trofoblástica de la gestación (PDQ®)–Versión para pacientes</a><!-- start description -->
+<div class="description"><p class="body">Resumen de información revisada por expertos acerca del tratamiento de la enfermedad trofoblástica de la gestación.</p></div><!-- end description --></div><!-- end title & desc container -->
+</li><li class="general-list-item general list-item">
+<!-- cgvSnListItemGeneral -->
+<!-- Image -->
+<!-- End Image -->
+<div class="title-and-desc title desc container"><a class="title" href="/espanol/tipos/trofoblastico-gestacion/pro/tratamiento-etg-pdq">Tratamiento de la enfermedad trofoblástica de la gestación (PDQ®)–Versión para profesionales de salud</a><!-- start description -->
+<div class="description"><p class="body">Resumen de información revisada por expertos acerca del tratamiento de la enfermedad trofoblástica de la gestación.</p></div><!-- end description --></div><!-- end title & desc container -->
+</li><li class="general-list-item general list-item">
+<!-- cgvSnListItemGeneral -->
+<!-- Image -->
+<!-- End Image -->
+<div class="title-and-desc title desc container"><a class="title" href="/espanol/tipos/linfoma/paciente/tratamiento-hodgkin-adultos-pdq">Tratamiento del linfoma de Hodgkin en adultos (PDQ®)–Versión para pacientes</a><!-- start description -->
+<div class="description"><p class="body">Resumen de información revisada por expertos acerca del tratamiento del linfoma de Hodgkin en adultos.</p></div><!-- end description --></div><!-- end title & desc container -->
+</li><li class="general-list-item general list-item">
+<!-- cgvSnListItemGeneral -->
+<!-- Image -->
+<!-- End Image -->
+<div class="title-and-desc title desc container"><a class="title" href="/espanol/tipos/linfoma/pro/tratamiento-hodgkin-adultos-pdq">Tratamiento del linfoma de Hodgkin en adultos (PDQ®)–Versión para profesionales de salud</a><!-- start description -->
+<div class="description"><p class="body">Resumen de información revisada por expertos acerca del tratamiento del linfoma de Hodgkin en adultos.</p></div><!-- end description --></div><!-- end title & desc container -->
+</li><li class="general-list-item general list-item">
+<!-- cgvSnListItemGeneral -->
+<!-- Image -->
+<!-- End Image -->
+<div class="title-and-desc title desc container"><a class="title" href="/espanol/tipos/linfoma/paciente/tratamiento-lnh-adultos-pdq">Tratamiento del linfoma no Hodgkin en adultos (PDQ®)–Versión para pacientes</a><!-- start description -->
+<div class="description"><p class="body">Resumen de información revisada por expertos acerca del tratamiento del linfoma no Hodgkin en adultos.</p></div><!-- end description --></div><!-- end title & desc container -->
+</li><li class="general-list-item general list-item">
+<!-- cgvSnListItemGeneral -->
+<!-- Image -->
+<!-- End Image -->
+<div class="title-and-desc title desc container"><a class="title" href="/espanol/tipos/linfoma/pro/tratamiento-lnh-adultos-pdq">Tratamiento del linfoma no Hodgkin en adultos (PDQ®)–Versión para profesionales de salud</a><!-- start description -->
+<div class="description"><p class="body">Resumen de información revisada por expertos acerca del tratamiento del linfoma no Hodgkin en adultos.</p></div><!-- end description --></div><!-- end title & desc container -->
+</li></ul>
+</div>
+
+]]>
+</CategoryDisplay>
+</cde:BestBetsCategory>	

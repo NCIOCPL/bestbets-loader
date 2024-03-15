@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cde:BestBetsCategory xsi:schemaLocation="http://www.example.org/CDESchema CDESchema.xsd" xmlns:cde="http://www.example.org/CDESchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<CategoryId>
+35761
+</CategoryId>
+<CategoryName><![CDATA[Enfermedades mielodispl&aacute;sicas y mieloproliferativas]]></CategoryName>
+<CategoryWeight>20</CategoryWeight>
+<IsExactMatch>false</IsExactMatch>
+<Language>es-us</Language>
+<Display>true</Display>
+<IncludeSynonyms><synonym IsExactMatch="false"><![CDATA[mieloproliferativo]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[mieloproliferativa]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[mielodisplasico]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[mieloproliferativas]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[mielodisplasicos]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[mieloproliferativos]]></synonym>
+</IncludeSynonyms>
+<ExcludeSynonyms><synonym IsExactMatch="false"><![CDATA[sindrome]]></synonym><synonym IsExactMatch="false"><![CDATA[sindromes]]></synonym></ExcludeSynonyms>
+<CategoryDisplay>
+<![CDATA[
+<div class="managed list">
+<ul>
+<li class="general-list-item general list-item">
+<!-- cgvSnListItemGeneral -->
+<!-- Image -->
+<!-- End Image -->
+<div class="title-and-desc title desc container"><a class="title" href="/espanol/tipos/mieloproliferativas">Neoplasias mieloproliferativas y síndromes mielodisplásicos—Versión para pacientes</a><!-- start description -->
+<div class="description"><p class="body">Información del Instituto Nacional del Cáncer sobre el tratamiento de las neoplasias mieloproliferativas, así como referencias a estudios clínicos y otros temas relacionados.</p></div><!-- end description --></div><!-- end title & desc container -->
+</li></ul>
+</div>
+
+]]>
+</CategoryDisplay>
+</cde:BestBetsCategory>	

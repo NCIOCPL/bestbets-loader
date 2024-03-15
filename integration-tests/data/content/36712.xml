@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cde:BestBetsCategory xsi:schemaLocation="http://www.example.org/CDESchema CDESchema.xsd" xmlns:cde="http://www.example.org/CDESchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<CategoryId>
+36712
+</CategoryId>
+<CategoryName><![CDATA[Chronic Lymphocytic Leukemia (CLL)]]></CategoryName>
+<CategoryWeight>10</CategoryWeight>
+<IsExactMatch>
+true</IsExactMatch>
+<Language>en</Language>
+<Display>true</Display>
+<IncludeSynonyms><synonym IsExactMatch="
+true"><![CDATA[cronic leukemia]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[lymphocytic]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[chronic lymphoblastic leukemia]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[chronic lymphocytic leukaemia]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[lymphoblastic]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[lymphoblastic leukemia]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[cll prognosis]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[cll staging]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[lymphocytic leukemia]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[chronic lymphocitic leukemia]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[chronic lymphocytic]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[lymphatic leukemia]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[cll treatment]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[chronic lymphoid leukemia]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[chronic lymphocytic leukemia]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[chronic leukemia]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[lymphoid cancer]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[cll leukemia]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[chronic lymphatic leukemia]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[chronic lymphocytic leukemia treatment]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[lymphoid leukemia]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[CLL]]></synonym>
+</IncludeSynonyms>
+<ExcludeSynonyms></ExcludeSynonyms>
+<CategoryDisplay>
+<![CDATA[
+<div class="managed list">
+<ul>
+<li class="general-list-item general list-item">
+<!-- cgvSnListItemGeneral -->
+<!-- Image -->
+<!-- End Image -->
+<div class="title-and-desc title desc container"><a class="title" href="/types/leukemia/patient/cll-treatment-pdq">Chronic Lymphocytic Leukemia Treatment (PDQ®)–Patient Version</a><!-- start description -->
+<div class="description"><p class="body">Chronic lymphocytic leukemia (CLL) treatment can include observation, steroids, radiation therapy, chemotherapy, surgery, or targeted therapy. Learn more about the diagnosis, prognosis, and treatment of newly diagnosed or recurrent CLL in this expert-reviewed information summary.</p></div><!-- end description --></div><!-- end title & desc container -->
+</li></ul>
+</div>
+
+]]>
+</CategoryDisplay>
+</cde:BestBetsCategory>	

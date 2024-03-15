@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cde:BestBetsCategory xsi:schemaLocation="http://www.example.org/CDESchema CDESchema.xsd" xmlns:cde="http://www.example.org/CDESchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<CategoryId>
+1095951
+</CategoryId>
+<CategoryName><![CDATA[Interferón]]></CategoryName>
+<CategoryWeight>20</CategoryWeight>
+<IsExactMatch>false</IsExactMatch>
+<Language>es-us</Language>
+<Display>true</Display>
+<IncludeSynonyms></IncludeSynonyms>
+<ExcludeSynonyms></ExcludeSynonyms>
+<CategoryDisplay>
+<![CDATA[
+<div class="managed list">
+<ul>
+<li class="general-list-item general list-item">
+<!-- cgvSnListItemGeneral -->
+<!-- Image -->
+<!-- End Image -->
+<div class="title-and-desc title desc container"><a class="title" href="/espanol/cancer/tratamiento/tipos/inmunoterapia">Inmunoterapia para tratar el cáncer</a><!-- start description -->
+<div class="description"><p class="body">La inmunoterapia es un tipo de tratamiento que ayuda al sistema inmunitario a combatir el cáncer. Obtenga información sobre los tipos de inmunoterapia y lo que puede esperar durante este tratamiento. </p></div><!-- end description --></div><!-- end title & desc container -->
+</li></ul>
+</div>
+
+]]>
+</CategoryDisplay>
+</cde:BestBetsCategory>	

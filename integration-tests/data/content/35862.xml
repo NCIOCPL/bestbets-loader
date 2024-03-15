@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cde:BestBetsCategory xsi:schemaLocation="http://www.example.org/CDESchema CDESchema.xsd" xmlns:cde="http://www.example.org/CDESchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<CategoryId>
+35862
+</CategoryId>
+<CategoryName><![CDATA[Trasplante de m&eacute;dula &oacute;sea]]></CategoryName>
+<CategoryWeight>20</CategoryWeight>
+<IsExactMatch>false</IsExactMatch>
+<Language>es-us</Language>
+<Display>true</Display>
+<IncludeSynonyms><synonym IsExactMatch="false"><![CDATA[trasplante medula]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[trasplante]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[transplante]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[transplante medula]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[medula]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[m&eacute;dula &oacute;sea]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[medula osea]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[transplantes]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[transplante de medula]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[trasplante de medula]]></synonym>
+</IncludeSynonyms>
+<ExcludeSynonyms><synonym IsExactMatch="false"><![CDATA[cancer]]></synonym><synonym IsExactMatch="false"><![CDATA[c&aacute;ncer]]></synonym></ExcludeSynonyms>
+<CategoryDisplay>
+<![CDATA[
+<div class="managed list">
+<ul>
+<li class="general-list-item general list-item">
+<!-- cgvSnListItemGeneral -->
+<!-- Image -->
+<!-- End Image -->
+<div class="title-and-desc title desc container"><a class="title" href="/espanol/cancer/tratamiento/tipos/trasplante-de-celulas-madre/hoja-informativa-medula-osea-trasplante">Trasplantes de células madre formadoras de sangre</a><!-- start description -->
+<div class="description"><p class="body">Hoja informativa que explica los procedimientos, paso a paso, del trasplante de médula ósea y del trasplante de células madre de sangre periférica, así como sus riesgos y beneficios.</p></div><!-- end description --></div><!-- end title & desc container -->
+</li></ul>
+</div>
+
+]]>
+</CategoryDisplay>
+</cde:BestBetsCategory>	

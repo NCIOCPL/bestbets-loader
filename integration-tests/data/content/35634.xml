@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cde:BestBetsCategory xsi:schemaLocation="http://www.example.org/CDESchema CDESchema.xsd" xmlns:cde="http://www.example.org/CDESchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<CategoryId>
+35634
+</CategoryId>
+<CategoryName><![CDATA[NCI Website]]></CategoryName>
+<CategoryWeight>55</CategoryWeight>
+<IsExactMatch>false</IsExactMatch>
+<Language>en</Language>
+<Display>true</Display>
+<IncludeSynonyms><synonym IsExactMatch="false"><![CDATA[www.cancer.gov]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[Cancer.gov]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[NCI web site]]></synonym>
+</IncludeSynonyms>
+<ExcludeSynonyms><synonym IsExactMatch="false"><![CDATA[cme.cancer.gov]]></synonym><synonym IsExactMatch="false"><![CDATA[update]]></synonym></ExcludeSynonyms>
+<CategoryDisplay>
+<![CDATA[
+<div class="managed list">
+<ul>
+<li class="general-list-item general list-item">
+<!-- cgvSnListItemGeneral -->
+<!-- Image -->
+<!-- End Image -->
+<div class="title-and-desc title desc container"><a class="title" href="/about-website">About This Website</a><!-- start description -->
+<div class="description"><p class="body">NCI is the U.S. government's principal agency for cancer research. This website serves to disseminate authoritative, evidence-based, and up-to-date information about cancer and NCI-supported cancer research. Much of the information is available for content reuse and syndication.</p></div><!-- end description --></div><!-- end title & desc container -->
+</li><li class="general-list-item general list-item">
+<!-- cgvSnListItemGeneral -->
+<!-- Image -->
+<!-- End Image -->
+<div class="title-and-desc title desc container"><a class="title" href="/contact">Contact Us for Help</a><!-- start description -->
+<div class="description"><p class="body">Cancer information specialists can answer your questions about cancer and help you with quitting smoking. They also respond to questions and requests for information about NCI and its programs.</p></div><!-- end description --></div><!-- end title & desc container -->
+</li></ul>
+</div>
+
+]]>
+</CategoryDisplay>
+</cde:BestBetsCategory>	

@@ -46,10 +46,8 @@ export NODE_CONFIG="                                                            
   {                                                                                 \
     \"pipeline\": {                                                                 \
         \"source\": {                                                               \
-            \"module\": \"./lib/sources/github-bestbets-source\",                   \
+            \"module\": \"./lib/sources/filesystem-bestbets-source\",               \
             \"config\": {                                                           \
-                \"repoUrl\": \"https://github.com/nciocpl/bestbets-content\",       \
-                \"ref\": \"integration-testing\",                                   \
                 \"resourcesPath\": \"/content\"                                     \
             }                                                                       \
         },                                                                          \

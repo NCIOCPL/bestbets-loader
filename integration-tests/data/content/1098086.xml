@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cde:BestBetsCategory xsi:schemaLocation="http://www.example.org/CDESchema CDESchema.xsd" xmlns:cde="http://www.example.org/CDESchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<CategoryId>
+1098086
+</CategoryId>
+<CategoryName><![CDATA[Partnership for Accelerating Cancer Therapies (PACT)]]></CategoryName>
+<CategoryWeight>10</CategoryWeight>
+<IsExactMatch>false</IsExactMatch>
+<Language>en</Language>
+<Display>true</Display>
+<IncludeSynonyms><synonym IsExactMatch="false"><![CDATA[PACT]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[Partnership for Accelerating Cancer Therapies]]></synonym>
+</IncludeSynonyms>
+<ExcludeSynonyms></ExcludeSynonyms>
+<CategoryDisplay>
+<![CDATA[
+<div class="managed list">
+<ul>
+<li class="general-list-item general list-item">
+<!-- cgvSnListItemGeneral -->
+<!-- Image -->
+<!-- End Image -->
+<div class="title-and-desc title desc container"><a class="title" href="https://www.nih.gov/news-events/news-releases/nih-partners-11-leading-biopharmaceutical-companies-accelerate-development-new-cancer-immunotherapy-strategies-more-patients#overlay-context=institutes-nih/nih-office-director">NIH Partnership for Accelerating Cancer Therapies (PACT)</a><!-- start description -->
+<div class="description"><p class="body">PACT is a five-year, public-private research collaboration launched by NIH and 11 pharmaceutical companies. As part of this effort, NCI recently awarded grants to support four Cancer Immune Monitoring and Analysis Centers (CIMACs) and a Cancer Immunologic Data Commons (CIDC).</p></div><!-- end description --></div><!-- end title & desc container -->
+</li></ul>
+</div>
+
+]]>
+</CategoryDisplay>
+</cde:BestBetsCategory>	

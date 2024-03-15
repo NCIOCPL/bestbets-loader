@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cde:BestBetsCategory xsi:schemaLocation="http://www.example.org/CDESchema CDESchema.xsd" xmlns:cde="http://www.example.org/CDESchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<CategoryId>
+36187
+</CategoryId>
+<CategoryName><![CDATA[Genitourinary Cancers]]></CategoryName>
+<CategoryWeight>25</CategoryWeight>
+<IsExactMatch>false</IsExactMatch>
+<Language>en</Language>
+<Display>true</Display>
+<IncludeSynonyms><synonym IsExactMatch="false"><![CDATA[genitourinary]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[GU]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[urinary cancer]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[genital cancer]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[urologic oncology                                 ]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[urological cancer]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[reproductive cancer]]></synonym>
+</IncludeSynonyms>
+<ExcludeSynonyms><synonym IsExactMatch="false"><![CDATA[Branch]]></synonym><synonym IsExactMatch="false"><![CDATA[reproductive events]]></synonym><synonym IsExactMatch="false"><![CDATA[urinary bladder]]></synonym><synonym IsExactMatch="false"><![CDATA[Group]]></synonym></ExcludeSynonyms>
+<CategoryDisplay>
+<![CDATA[
+<div class="managed list">
+<ul>
+<li class="general-list-item general list-item">
+<!-- cgvSnListItemGeneral -->
+<!-- Image -->
+<!-- End Image -->
+<div class="title-and-desc title desc container"><a class="title" href="/types/by-body-location">Cancers by Body Location/System</a><!-- start description -->
+<div class="description"><p class="body">A list of all cancers, organized by location and/or function in the body. Cancers on the list are linked to information about treatment, supportive care, screening, prevention, clinical trials, and other topics.</p></div><!-- end description --></div><!-- end title & desc container -->
+</li><li class="general-list-item general list-item">
+<!-- cgvSnListItemGeneral -->
+<!-- Image -->
+<!-- End Image -->
+<div class="title-and-desc title desc container"><a class="title" href="/types/childhood-cancers/patient/unusual-cancers-childhood-pdq">Unusual Cancers of Childhood Treatment (PDQ®)–Patient Version</a><!-- start description -->
+<div class="description"><p class="body">Treatment for unusual cancers of childhood depends on the specific cancer (e.g., nasopharyngeal, thyroid, oral, laryngeal, lung, esophageal, cardiac). See the full list and learn more about treatment for these cancers in this expert-reviewed summary.</p></div><!-- end description --></div><!-- end title & desc container -->
+</li></ul>
+</div>
+
+]]>
+</CategoryDisplay>
+</cde:BestBetsCategory>	

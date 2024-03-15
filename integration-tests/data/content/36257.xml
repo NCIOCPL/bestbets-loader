@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cde:BestBetsCategory xsi:schemaLocation="http://www.example.org/CDESchema CDESchema.xsd" xmlns:cde="http://www.example.org/CDESchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<CategoryId>
+36257
+</CategoryId>
+<CategoryName><![CDATA[C&aacute;ncer de la sangre]]></CategoryName>
+<CategoryWeight>25</CategoryWeight>
+<IsExactMatch>false</IsExactMatch>
+<Language>es-us</Language>
+<Display>false</Display>
+<IncludeSynonyms><synonym IsExactMatch="false"><![CDATA[cancer sangre]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[sangre]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[enfermedades de la sangre]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[tumor en la sangre]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[cáncer sanguineo]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[cáncer sanguíneo]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[cancer sanguíneo]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[cancer sanguineo]]></synonym>
+</IncludeSynonyms>
+<ExcludeSynonyms></ExcludeSynonyms>
+<CategoryDisplay>
+<![CDATA[
+<div class="managed list">
+<ul>
+</ul>
+</div>
+
+]]>
+</CategoryDisplay>
+</cde:BestBetsCategory>	
