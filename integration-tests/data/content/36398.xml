@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cde:BestBetsCategory xsi:schemaLocation="http://www.example.org/CDESchema CDESchema.xsd" xmlns:cde="http://www.example.org/CDESchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<CategoryId>
+36398
+</CategoryId>
+<CategoryName><![CDATA[Childhood Cancers]]></CategoryName>
+<CategoryWeight>55</CategoryWeight>
+<IsExactMatch>
+true</IsExactMatch>
+<Language>en</Language>
+<Display>true</Display>
+<IncludeSynonyms><synonym IsExactMatch="
+true"><![CDATA[brain cancer in children]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[childhood lymphoma]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[infant cancer]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[lymphoma in children]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[all in children]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[child care]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[childhood brain tumor]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[childhood sarcoma]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[care for children]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[pediatric brain cancer]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[childhood acute lymphoblastic leukemia]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[pediatric supportive care]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[acute lymphoblastic leukemia in children]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[all infant]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[pediatric cancer statistics]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[types of childhood cancer]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[childhood leukemia]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[kids]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[cancer in children]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[young people with cancer]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[child brain tumor]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[young]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[childhood acute lymphocytic leukemia]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[children with cancer]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[aml in children]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[aml children]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[children's health]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[children's cancer]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[pediatric leukemia]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[childhood brain]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[youth]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[child disease]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[pediatric]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[infant]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[aml child]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[all child]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[children's page]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[kids cancer]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[leukemia in children]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[leukemia children]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[paediatric]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[childrens cancer]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[childrens]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[aml pediatric]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[pediatric oncology]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[pediatric cancer]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[childhood brain cancer]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[young people]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[brain tumors in children]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[children cancer]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[all pediatric]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[childhood acute myeloid leukemia]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[pediatric lymphoma]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[children]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[all children]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[child]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[children and cancer]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[child leukemia]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[children coping]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[aml childhood]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[pediatric brain tumor]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[childhood]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[childhood cancer statistics]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[infant leukemia]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[all childhood]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[child cancer]]></synonym>
+</IncludeSynonyms>
+<ExcludeSynonyms></ExcludeSynonyms>
+<CategoryDisplay>
+<![CDATA[
+<div class="managed list">
+<ul>
+<li class="general-list-item general list-item">
+<!-- cgvSnListItemGeneral -->
+<!-- Image -->
+<!-- End Image -->
+<div class="title-and-desc title desc container"><a class="title" href="/research/areas/childhood">Childhood Cancers Research</a><!-- start description -->
+<div class="description"><p class="body">Learn about the range of research that NCI supports to address pediatric cancers, from basic science to clinical research on new treatments, all aimed at providing the best care for childhood cancer patients and survivors.</p></div><!-- end description --></div><!-- end title & desc container -->
+</li><li class="general-list-item general list-item">
+<!-- cgvSnListItemGeneral -->
+<!-- Image -->
+<!-- End Image -->
+<div class="title-and-desc title desc container"><a class="title" href="/types/childhood-cancers">Childhood Cancers</a><!-- start description -->
+<div class="description"><p class="body">Information about the common types of pediatric cancers, the latest treatments, where to go for treatment, and where to find information about coping and survivorship. </p></div><!-- end description --></div><!-- end title & desc container -->
+</li><li class="general-list-item general list-item">
+<!-- cgvSnListItemGeneral -->
+<!-- Image -->
+<!-- End Image -->
+<div class="title-and-desc title desc container"><a class="title" href="/publications/patient-education/guide-for-parents">Children with Cancer: A Guide for Parents</a><!-- start description -->
+<div class="description"><p class="body">Information and advice for parents who have a child with cancer, including treatment, coping and support, health issues, integrative medicine, advanced cancer, and survivorship.</p></div><!-- end description --></div><!-- end title & desc container -->
+</li><li class="general-list-item general list-item">
+<!-- cgvSnListItemGeneral -->
+<!-- Image -->
+<!-- End Image -->
+<div class="title-and-desc title desc container"><a class="title" href="https://ccr.cancer.gov/pediatric-oncology-branch">Pediatric Oncology Branch</a><!-- start description -->
+<div class="description"><p class="body">The Pediatric Oncology Branch, in the Center for Cancer Research, is dedicated to the study and treatment of childhood cancers.</p></div><!-- end description --></div><!-- end title & desc container -->
+</li></ul>
+</div>
+
+]]>
+</CategoryDisplay>
+</cde:BestBetsCategory>	

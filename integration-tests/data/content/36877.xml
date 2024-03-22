@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cde:BestBetsCategory xsi:schemaLocation="http://www.example.org/CDESchema CDESchema.xsd" xmlns:cde="http://www.example.org/CDESchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<CategoryId>
+36877
+</CategoryId>
+<CategoryName><![CDATA[Providing Tissue for Research]]></CategoryName>
+<CategoryWeight>25</CategoryWeight>
+<IsExactMatch>false</IsExactMatch>
+<Language>en</Language>
+<Display>true</Display>
+<IncludeSynonyms><synonym IsExactMatch="false"><![CDATA[specimen collection]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[tissue donation]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[how is tissue used for research]]></synonym>
+</IncludeSynonyms>
+<ExcludeSynonyms></ExcludeSynonyms>
+<CategoryDisplay>
+<![CDATA[
+<div class="managed list">
+<ul>
+<li class="general-list-item general list-item">
+<!-- cgvSnListItemGeneral -->
+<!-- Image -->
+<!-- End Image -->
+<div class="title-and-desc title desc container"><a class="title" href="/publications/patient-education/providing-tissue">Providing Your Tissue for Research: What You Need To Know</a><!-- start description -->
+<div class="description"><p class="body">Covers things you should know and think about when deciding to donate your tissue to research. Tissue can include materials from your body such as skin, hair, nails, blood, and urine.</p></div><!-- end description --></div><!-- end title & desc container -->
+</li><li class="general-list-item general list-item">
+<!-- cgvSnListItemGeneral -->
+<!-- Image -->
+<!-- End Image -->
+<div class="title-and-desc title desc container"><a class="title" href="http://biospecimens.cancer.gov/patientcorner/default.asp">Patient Corner-Biorepositories and Biospecimens Research Branch</a><!-- start description -->
+<div class="description"><p class="body">Basic information explaining what biorepositories and biospecimens are, why they are important in cancer research, and how patients can help.</p></div><!-- end description --></div><!-- end title & desc container -->
+</li></ul>
+</div>
+
+]]>
+</CategoryDisplay>
+</cde:BestBetsCategory>	

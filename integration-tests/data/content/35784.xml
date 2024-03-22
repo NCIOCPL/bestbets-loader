@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cde:BestBetsCategory xsi:schemaLocation="http://www.example.org/CDESchema CDESchema.xsd" xmlns:cde="http://www.example.org/CDESchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<CategoryId>
+35784
+</CategoryId>
+<CategoryName><![CDATA[Ductal Carcinoma In Situ (DCIS)]]></CategoryName>
+<CategoryWeight>25</CategoryWeight>
+<IsExactMatch>false</IsExactMatch>
+<Language>en</Language>
+<Display>true</Display>
+<IncludeSynonyms><synonym IsExactMatch="false"><![CDATA[ductual carcinoma in situ]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[intraductal carcinoma]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[DCSI]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[ductile carcinoma in situ]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[ductal carcinoma in situ]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[DCIS]]></synonym>
+</IncludeSynonyms>
+<ExcludeSynonyms><synonym IsExactMatch="false"><![CDATA[hyperplasia]]></synonym><synonym IsExactMatch="false"><![CDATA[reproductive]]></synonym><synonym IsExactMatch="false"><![CDATA[mucinous]]></synonym><synonym IsExactMatch="false"><![CDATA[infiltrating]]></synonym><synonym IsExactMatch="false"><![CDATA[surgery choices for women with]]></synonym><synonym IsExactMatch="false"><![CDATA[papiloma]]></synonym><synonym IsExactMatch="false"><![CDATA[infiltrante]]></synonym><synonym IsExactMatch="false"><![CDATA[adenocarcinoma]]></synonym><synonym IsExactMatch="false"><![CDATA[lavage]]></synonym><synonym IsExactMatch="false"><![CDATA[high grade]]></synonym><synonym IsExactMatch="false"><![CDATA[papilloma]]></synonym><synonym IsExactMatch="false"><![CDATA[invasive]]></synonym><synonym IsExactMatch="false"><![CDATA[atypical]]></synonym></ExcludeSynonyms>
+<CategoryDisplay>
+<![CDATA[
+<div class="managed list">
+<ul>
+<li class="general-list-item general list-item">
+<!-- cgvSnListItemGeneral -->
+<!-- Image -->
+<!-- End Image -->
+<div class="title-and-desc title desc container"><a class="title" href="/types/breast/breast-changes">Breast Changes and Conditions</a><!-- start description -->
+<div class="description"><p class="body">Provides information on how specific breast changes, including atypical hyperplasia, lobular carcinoma in situ, ductal carcinoma in situ and breast cancer, are detected, diagnosed, and treated.</p></div><!-- end description --></div><!-- end title & desc container -->
+</li><li class="general-list-item general list-item">
+<!-- cgvSnListItemGeneral -->
+<!-- Image -->
+<!-- End Image -->
+<div class="title-and-desc title desc container"><a class="title" href="/types/breast/patient/breast-treatment-pdq">Breast Cancer Treatment (PDQ®)–Patient Version</a><!-- start description -->
+<div class="description"><p class="body">Breast cancer treatment depends on several factors and can include combinations of surgery, chemotherapy, radiation, hormone, and targeted therapy. Learn more about how breast cancer is diagnosed and treated in this expert-reviewed summary.</p></div><!-- end description --></div><!-- end title & desc container -->
+</li></ul>
+</div>
+
+]]>
+</CategoryDisplay>
+</cde:BestBetsCategory>	

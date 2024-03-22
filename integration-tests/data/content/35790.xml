@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cde:BestBetsCategory xsi:schemaLocation="http://www.example.org/CDESchema CDESchema.xsd" xmlns:cde="http://www.example.org/CDESchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<CategoryId>
+35790
+</CategoryId>
+<CategoryName><![CDATA[Melanoma]]></CategoryName>
+<CategoryWeight>9</CategoryWeight>
+<IsExactMatch>false</IsExactMatch>
+<Language>es-us</Language>
+<Display>true</Display>
+<IncludeSynonyms><synonym IsExactMatch="false"><![CDATA[melnoma]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[melonoma]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[melanoma]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[melanoma maligno]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[melinoma]]></synonym>
+</IncludeSynonyms>
+<ExcludeSynonyms><synonym IsExactMatch="false"><![CDATA[symptoms]]></synonym><synonym IsExactMatch="false"><![CDATA[photos]]></synonym><synonym IsExactMatch="false"><![CDATA[pictures]]></synonym><synonym IsExactMatch="false"><![CDATA[malignant]]></synonym><synonym IsExactMatch="false"><![CDATA[metastatic]]></synonym><synonym IsExactMatch="false"><![CDATA[treatment]]></synonym><synonym IsExactMatch="false"><![CDATA[staging]]></synonym><synonym IsExactMatch="false"><![CDATA[no]]></synonym><synonym IsExactMatch="false"><![CDATA[tool]]></synonym></ExcludeSynonyms>
+<CategoryDisplay>
+<![CDATA[
+<div class="managed list">
+<ul>
+<li class="general-list-item general list-item">
+<!-- cgvSnListItemGeneral -->
+<!-- Image -->
+<!-- End Image -->
+<div class="title-and-desc title desc container"><a class="title" href="/espanol/tipos/piel">Cáncer de piel (incluye el melanoma)—Versión para pacientes</a><!-- start description -->
+<div class="description"><p class="body">Portal del NCI con información sobre el cáncer de piel, incluido el melanoma.</p></div><!-- end description --></div><!-- end title & desc container -->
+</li></ul>
+</div>
+
+]]>
+</CategoryDisplay>
+</cde:BestBetsCategory>	

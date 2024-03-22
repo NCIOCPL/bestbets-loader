@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cde:BestBetsCategory xsi:schemaLocation="http://www.example.org/CDESchema CDESchema.xsd" xmlns:cde="http://www.example.org/CDESchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<CategoryId>
+36037
+</CategoryId>
+<CategoryName><![CDATA[Pron&oacute;stico]]></CategoryName>
+<CategoryWeight>20</CategoryWeight>
+<IsExactMatch>
+true</IsExactMatch>
+<Language>es-us</Language>
+<Display>true</Display>
+<IncludeSynonyms><synonym IsExactMatch="
+true"><![CDATA[pronóstico del cáncer]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[pronóstico]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[consecuencias del cancer]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[consecuencias]]></synonym>
+</IncludeSynonyms>
+<ExcludeSynonyms></ExcludeSynonyms>
+<CategoryDisplay>
+<![CDATA[
+<div class="managed list">
+<ul>
+<li class="general-list-item general list-item">
+<!-- cgvSnListItemGeneral -->
+<!-- Image -->
+<!-- End Image -->
+<div class="title-and-desc title desc container"><a class="title" href="/espanol/cancer/diagnostico-estadificacion/pronostico">El pronóstico del cáncer</a><!-- start description -->
+<div class="description"><p class="body">El pronóstico describe qué tan grave es su cáncer y las posibilidades que tiene usted de sobrevivir. Entérese de las estadísticas de supervivencia y cómo se usan para estimar un pronóstico.</p></div><!-- end description --></div><!-- end title & desc container -->
+</li></ul>
+</div>
+
+]]>
+</CategoryDisplay>
+</cde:BestBetsCategory>	

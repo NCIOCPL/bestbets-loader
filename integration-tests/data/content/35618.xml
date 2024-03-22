@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cde:BestBetsCategory xsi:schemaLocation="http://www.example.org/CDESchema CDESchema.xsd" xmlns:cde="http://www.example.org/CDESchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<CategoryId>
+35618
+</CategoryId>
+<CategoryName><![CDATA[Cancer Images]]></CategoryName>
+<CategoryWeight>70</CategoryWeight>
+<IsExactMatch>false</IsExactMatch>
+<Language>en</Language>
+<Display>true</Display>
+<IncludeSynonyms><synonym IsExactMatch="false"><![CDATA[visual]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[photo]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[picture]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[visualsonline]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[pics]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[visuals]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[illustration]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[image]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[photograph]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[visualonline]]></synonym>
+</IncludeSynonyms>
+<ExcludeSynonyms><synonym IsExactMatch="false"><![CDATA[lung]]></synonym><synonym IsExactMatch="false"><![CDATA[photo therapy]]></synonym><synonym IsExactMatch="false"><![CDATA[imaging tests]]></synonym><synonym IsExactMatch="false"><![CDATA[Group]]></synonym><synonym IsExactMatch="false"><![CDATA[loss]]></synonym><synonym IsExactMatch="false"><![CDATA[guide]]></synonym><synonym IsExactMatch="false"><![CDATA[thermal imaging]]></synonym><synonym IsExactMatch="false"><![CDATA[anal]]></synonym><synonym IsExactMatch="false"><![CDATA[throat]]></synonym><synonym IsExactMatch="false"><![CDATA[diagnostic imaging]]></synonym><synonym IsExactMatch="false"><![CDATA[cervical]]></synonym><synonym IsExactMatch="false"><![CDATA[optical imaging]]></synonym><synonym IsExactMatch="false"><![CDATA[imaging technology]]></synonym><synonym IsExactMatch="false"><![CDATA[lip]]></synonym><synonym IsExactMatch="false"><![CDATA[guided]]></synonym><synonym IsExactMatch="false"><![CDATA[animal imaging]]></synonym><synonym IsExactMatch="false"><![CDATA[IBC]]></synonym><synonym IsExactMatch="false"><![CDATA[biomedical imaging]]></synonym><synonym IsExactMatch="false"><![CDATA[molecular imaging]]></synonym><synonym IsExactMatch="false"><![CDATA[pathway]]></synonym><synonym IsExactMatch="false"><![CDATA[analogue]]></synonym><synonym IsExactMatch="false"><![CDATA[imaging program]]></synonym><synonym IsExactMatch="false"><![CDATA[Program]]></synonym><synonym IsExactMatch="false"><![CDATA[leukemia]]></synonym><synonym IsExactMatch="false"><![CDATA[magnetic resonance]]></synonym><synonym IsExactMatch="false"><![CDATA[oral]]></synonym><synonym IsExactMatch="false"><![CDATA[image analysis]]></synonym><synonym IsExactMatch="false"><![CDATA[ovarian]]></synonym><synonym IsExactMatch="false"><![CDATA[body image]]></synonym><synonym IsExactMatch="false"><![CDATA[bladder]]></synonym><synonym IsExactMatch="false"><![CDATA[vulvar]]></synonym><synonym IsExactMatch="false"><![CDATA[image-guide]]></synonym><synonym IsExactMatch="false"><![CDATA[image recovery]]></synonym><synonym IsExactMatch="false"><![CDATA[photo dynamic]]></synonym><synonym IsExactMatch="false"><![CDATA[vaginal]]></synonym><synonym IsExactMatch="false"><![CDATA[colon]]></synonym><synonym IsExactMatch="false"><![CDATA[mouth]]></synonym><synonym IsExactMatch="false"><![CDATA[inspection]]></synonym><synonym IsExactMatch="false"><![CDATA[skin]]></synonym><synonym IsExactMatch="false"><![CDATA[melanoma]]></synonym></ExcludeSynonyms>
+<CategoryDisplay>
+<![CDATA[
+<div class="managed list">
+<ul>
+<li class="general-list-item general list-item">
+<!-- cgvSnListItemGeneral -->
+<!-- Image -->
+<!-- End Image -->
+<div class="title-and-desc title desc container"><a class="title" href="http://visualsonline.cancer.gov">Visuals Online</a><!-- start description -->
+<div class="description"><p class="body">An NCI database of cancer-specific scientific and patient care-related images, as well as general biomedical and science-related images and portraits of NCI directors and staff.</p></div><!-- end description --></div><!-- end title & desc container -->
+</li></ul>
+</div>
+
+]]>
+</CategoryDisplay>
+</cde:BestBetsCategory>	

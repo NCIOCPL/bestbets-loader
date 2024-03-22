@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cde:BestBetsCategory xsi:schemaLocation="http://www.example.org/CDESchema CDESchema.xsd" xmlns:cde="http://www.example.org/CDESchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<CategoryId>
+35935
+</CategoryId>
+<CategoryName><![CDATA[Cancer Drugs]]></CategoryName>
+<CategoryWeight>70</CategoryWeight>
+<IsExactMatch>
+true</IsExactMatch>
+<Language>en</Language>
+<Display>true</Display>
+<IncludeSynonyms><synonym IsExactMatch="
+true"><![CDATA[approved drugs]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[drug list]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[drug]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[cancer medications]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[medicine]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[drug side effects]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[medication]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[cancer medicine]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[cancer pill]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[drug info]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[anticancer drug]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[drug summaries]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[medications]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[anti cancer drugs]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[drug summary]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[drug therapy]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[drug information summaries]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[drug information]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[drug information summary]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[drug regimen]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[drug combinations]]></synonym>
+</IncludeSynonyms>
+<ExcludeSynonyms></ExcludeSynonyms>
+<CategoryDisplay>
+<![CDATA[
+<div class="managed list">
+<ul>
+<li class="general-list-item general list-item">
+<!-- cgvSnListItemGeneral -->
+<!-- Image -->
+<!-- End Image -->
+<div class="title-and-desc title desc container"><a class="title" href="/about-cancer/treatment/drugs">A to Z List of Cancer Drugs</a><!-- start description -->
+<div class="description"><p class="body">Consumer-friendly information about cancer drugs and drug combinations used to prevent and treat cancer.</p></div><!-- end description --></div><!-- end title & desc container -->
+</li><li class="general-list-item general list-item">
+<!-- cgvSnListItemGeneral -->
+<!-- Image -->
+<!-- End Image -->
+<div class="title-and-desc title desc container"><a class="title" href="/publications/dictionaries/cancer-drug">NCI Drug Dictionary</a><!-- start description -->
+<div class="description"><p class="body">A dictionary that contains technical definitions, alternate names, and links to related information for 2,300+ agents that are being used in the treatment of patients with cancer or cancer-related conditions.</p></div><!-- end description --></div><!-- end title & desc container -->
+</li><li class="general-list-item general list-item">
+<!-- cgvSnListItemGeneral -->
+<!-- Image -->
+<!-- End Image -->
+<div class="title-and-desc title desc container"><a class="title" href="/about-cancer/treatment/drugs/cancer-type">Drugs Approved for Different Types of Cancer</a><!-- start description -->
+<div class="description"><p class="body">This page lists and links to NCI's pages of drugs approved for specific types of cancer. </p></div><!-- end description --></div><!-- end title & desc container -->
+</li><li class="general-list-item general list-item">
+<!-- cgvSnListItemGeneral -->
+<!-- Image -->
+<!-- End Image -->
+<div class="title-and-desc title desc container"><a class="title" href="/about-cancer/treatment/drugs/related-conditions">Drugs Approved for Conditions Related to Cancer</a><!-- start description -->
+<div class="description"><p class="body">A list of conditions associated with cancer or cancer treatment and links to information on approved drugs for these conditions.</p></div><!-- end description --></div><!-- end title & desc container -->
+</li></ul>
+</div>
+
+]]>
+</CategoryDisplay>
+</cde:BestBetsCategory>	

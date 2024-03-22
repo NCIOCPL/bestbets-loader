@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cde:BestBetsCategory xsi:schemaLocation="http://www.example.org/CDESchema CDESchema.xsd" xmlns:cde="http://www.example.org/CDESchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<CategoryId>
+20000
+</CategoryId>
+<CategoryName><![CDATA[Physician Data Query (PDQ)]]></CategoryName>
+<CategoryWeight>100</CategoryWeight>
+<IsExactMatch>false</IsExactMatch>
+<Language>en</Language>
+<Display>true</Display>
+<IncludeSynonyms>
+  <synonym IsExactMatch="false"><![CDATA[Physician Data Query]]></synonym>
+  <synonym IsExactMatch="true"><![CDATA[PDQ]]></synonym>
+</IncludeSynonyms>
+<!--
+<ExcludeSynonyms>
+  <synonym IsExactMatch="false"><![CDATA[fact sheets]]></synonym>
+  <synonym IsExactMatch="false"><![CDATA[partnership]]></synonym>
+</ExcludeSynonyms>
+-->
+<CategoryDisplay>
+<![CDATA[
+<div class="managed list">
+<ul>
+<li class="general-list-item general list-item">
+<!-- cgvSnListItemGeneral -->
+<!-- Image -->
+<!-- End Image -->
+<div class="title-and-desc title desc container"><a class="title" href="/publications/pdq">PDQ<sup>&reg;</sup> - NCI's Comprehensive Database</a><!-- start description -->
+<div class="description"><p class="body">An NCI database that contains the latest information about cancer treatment, screening, prevention, genetics, supportive care, and complementary and alternative medicine, plus drug information and a dictionary of cancer terms.</p></div><!-- end description --></div><!-- end title & desc container -->
+</li></ul>
+</div>
+]]>
+</CategoryDisplay>
+</cde:BestBetsCategory>	

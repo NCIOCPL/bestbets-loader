@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cde:BestBetsCategory xsi:schemaLocation="http://www.example.org/CDESchema CDESchema.xsd" xmlns:cde="http://www.example.org/CDESchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<CategoryId>
+35633
+</CategoryId>
+<CategoryName><![CDATA[Glioma]]></CategoryName>
+<CategoryWeight>25</CategoryWeight>
+<IsExactMatch>false</IsExactMatch>
+<Language>en</Language>
+<Display>true</Display>
+<IncludeSynonyms><synonym IsExactMatch="false"><![CDATA[gleoma]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[giloma]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[glyoma]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[gliomas]]></synonym>
+</IncludeSynonyms>
+<ExcludeSynonyms><synonym IsExactMatch="false"><![CDATA[optic]]></synonym><synonym IsExactMatch="false"><![CDATA[brainstem]]></synonym><synonym IsExactMatch="false"><![CDATA[mixed glioma]]></synonym><synonym IsExactMatch="false"><![CDATA[brain stem]]></synonym><synonym IsExactMatch="false"><![CDATA[anaplastic]]></synonym><synonym IsExactMatch="false"><![CDATA[pontine]]></synonym></ExcludeSynonyms>
+<CategoryDisplay>
+<![CDATA[
+<div class="managed list">
+<ul>
+<li class="general-list-item general list-item">
+<!-- cgvSnListItemGeneral -->
+<!-- Image -->
+<!-- End Image -->
+<div class="title-and-desc title desc container"><a class="title" href="/types/brain">Brain Tumors—Patient Version</a><!-- start description -->
+<div class="description"><p class="body">Information about brain tumor treatment, clinical trials, research, statistics, and other topics.</p></div><!-- end description --></div><!-- end title & desc container -->
+</li></ul>
+</div>
+
+]]>
+</CategoryDisplay>
+</cde:BestBetsCategory>	

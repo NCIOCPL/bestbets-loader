@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cde:BestBetsCategory xsi:schemaLocation="http://www.example.org/CDESchema CDESchema.xsd" 
+                    xmlns:cde="http://www.example.org/CDESchema" 
+                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<CategoryId>
+20002
+</CategoryId>
+<CategoryName><![CDATA[Time to End Cancer as We Know It]]></CategoryName>
+<CategoryWeight>100</CategoryWeight>
+<IsExactMatch>false</IsExactMatch>
+<Language>en</Language>
+<Display>true</Display>
+<IncludeSynonyms>
+  <synonym IsExactMatch="false"><![CDATA[Jill Biden]]></synonym>
+  <synonym IsExactMatch="false"><![CDATA[Dr. Jill Biden]]></synonym>
+  <synonym IsExactMatch="false"><![CDATA[Biden]]></synonym>
+  <synonym IsExactMatch="true"><![CDATA[FLOTUS]]></synonym>
+  <synonym IsExactMatch="false"><![CDATA[First Lady]]></synonym>
+  <synonym IsExactMatch="false"><![CDATA[First Lady of the United States]]></synonym>
+  <synonym IsExactMatch="false"><![CDATA[Ending Cancer]]></synonym>
+  <synonym IsExactMatch="false"><![CDATA[ending cancer as we know it]]></synonym>
+  <synonym IsExactMatch="false"><![CDATA[end cancer as we know it]]></synonym>
+</IncludeSynonyms>
+<!--
+<ExcludeSynonyms></ExcludeSynonyms>
+-->
+<CategoryDisplay>
+<![CDATA[
+<div class="managed list">
+<ul>
+  <li class="general-list-item general list-item">
+<!-- cgvSnListItemGeneral -->
+<!-- Image -->
+<!-- End Image -->
+<div class="title-and-desc title desc container"><a class="title" href="https://www.cancer.gov/news-events/nca50/commemorate-national-cancer-act-50-years">Time to End Cancer as We Know It</a>
+<!-- start description -->
+ <div class="description"><p class="body">First Lady of the United States Dr. Jill Biden touches on how the National Cancer Act represented an investment in people and science that has led to revolutionary advancements in cancer prevention, screening, diagnosis, and treatments.</p>
+ </div><!-- end description -->
+</div>
+<!-- end title & desc container -->
+  </li>
+</ul>
+</div>
+
+]]>
+</CategoryDisplay>
+</cde:BestBetsCategory>	

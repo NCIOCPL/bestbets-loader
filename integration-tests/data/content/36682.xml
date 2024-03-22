@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cde:BestBetsCategory xsi:schemaLocation="http://www.example.org/CDESchema CDESchema.xsd" xmlns:cde="http://www.example.org/CDESchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<CategoryId>
+36682
+</CategoryId>
+<CategoryName><![CDATA[Statistics]]></CategoryName>
+<CategoryWeight>8</CategoryWeight>
+<IsExactMatch>false</IsExactMatch>
+<Language>en</Language>
+<Display>true</Display>
+<IncludeSynonyms><synonym IsExactMatch="false"><![CDATA[life span]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[cancer stats]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[facts and figures]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[life expectency]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[lifespan]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[demographics]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[rates]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[cancer trends]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[how many people have cancer]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[statistical]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[how many people get cancer]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[biostatistics]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[life expectancy]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[statistic]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[biostatistic]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[survival statistics]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[mortality statistics]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[cancer incidence]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[survival rates]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[survival rate]]></synonym>
+</IncludeSynonyms>
+<ExcludeSynonyms></ExcludeSynonyms>
+<CategoryDisplay>
+<![CDATA[
+<div class="managed list">
+<ul>
+<li class="general-list-item general list-item">
+<!-- cgvSnListItemGeneral -->
+<!-- Image -->
+<!-- End Image -->
+<div class="title-and-desc title desc container"><a class="title" href="/about-cancer/understanding/statistics">Cancer Statistics</a><!-- start description -->
+<div class="description"><p class="body">Basic information about cancer statistics in the U.S. and how they are used to understand the impact of cancer on society and to develop strategies that address the challenges that cancer poses.</p></div><!-- end description --></div><!-- end title & desc container -->
+</li><li class="general-list-item general list-item">
+<!-- cgvSnListItemGeneral -->
+<!-- Image -->
+<!-- End Image -->
+<div class="title-and-desc title desc container"><a class="title" href="http://seer.cancer.gov/statfacts">Cancer Stat Fact Sheets</a><!-- start description -->
+<div class="description"><p class="body">Statistical summaries that provide an overview of frequently requested statistics on a number of cancer types.</p></div><!-- end description --></div><!-- end title & desc container -->
+</li><li class="general-list-item general list-item">
+<!-- cgvSnListItemGeneral -->
+<!-- Image -->
+<!-- End Image -->
+<div class="title-and-desc title desc container"><a class="title" href="/types/common-cancers">Common Cancer Types</a><!-- start description -->
+<div class="description"><p class="body">This list of common cancer types includes cancers that are diagnosed with the greatest frequency in the United States; provides most recent incidence and mortality statistics for these cancers. </p></div><!-- end description --></div><!-- end title & desc container -->
+</li></ul>
+</div>
+
+]]>
+</CategoryDisplay>
+</cde:BestBetsCategory>	

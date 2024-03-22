@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cde:BestBetsCategory xsi:schemaLocation="http://www.example.org/CDESchema CDESchema.xsd" xmlns:cde="http://www.example.org/CDESchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<CategoryId>
+36375
+</CategoryId>
+<CategoryName><![CDATA[Fund-Raising]]></CategoryName>
+<CategoryWeight>20</CategoryWeight>
+<IsExactMatch>false</IsExactMatch>
+<Language>en</Language>
+<Display>false</Display>
+<IncludeSynonyms><synonym IsExactMatch="false"><![CDATA[charities]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[fund raiser]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[fundraiser]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[charity]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[fundraising                                       ]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[fund raising]]></synonym>
+</IncludeSynonyms>
+<ExcludeSynonyms></ExcludeSynonyms>
+<CategoryDisplay>
+<![CDATA[
+<div class="managed list">
+<ul>
+</ul>
+</div>
+
+]]>
+</CategoryDisplay>
+</cde:BestBetsCategory>	

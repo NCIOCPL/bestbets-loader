@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cde:BestBetsCategory xsi:schemaLocation="http://www.example.org/CDESchema CDESchema.xsd" xmlns:cde="http://www.example.org/CDESchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<CategoryId>
+36778
+</CategoryId>
+<CategoryName><![CDATA[Hodgkin Lymphoma]]></CategoryName>
+<CategoryWeight>25</CategoryWeight>
+<IsExactMatch>false</IsExactMatch>
+<Language>en</Language>
+<Display>true</Display>
+<IncludeSynonyms><synonym IsExactMatch="false"><![CDATA[HL]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[Hodgkin]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[Hodgins]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[Hodkings]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[Hodkin]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[Hodgekins]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[Hodkins]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[Hodgkins]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[Hogkins]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[Hodking]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[Hodgkin's]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[Hodgking]]></synonym>
+</IncludeSynonyms>
+<ExcludeSynonyms><synonym IsExactMatch="false"><![CDATA[symptons]]></synonym><synonym IsExactMatch="false"><![CDATA[picture]]></synonym><synonym IsExactMatch="false"><![CDATA[children]]></synonym><synonym IsExactMatch="false"><![CDATA[linfoma]]></synonym><synonym IsExactMatch="false"><![CDATA[childhood]]></synonym><synonym IsExactMatch="false"><![CDATA[non]]></synonym><synonym IsExactMatch="false"><![CDATA[no]]></synonym><synonym IsExactMatch="false"><![CDATA[symtoms]]></synonym><synonym IsExactMatch="false"><![CDATA[symtems]]></synonym><synonym IsExactMatch="false"><![CDATA[signs]]></synonym><synonym IsExactMatch="false"><![CDATA[symptoms]]></synonym><synonym IsExactMatch="false"><![CDATA[symtons]]></synonym><synonym IsExactMatch="false"><![CDATA[syptoms]]></synonym><synonym IsExactMatch="false"><![CDATA[de]]></synonym></ExcludeSynonyms>
+<CategoryDisplay>
+<![CDATA[
+<div class="managed list">
+<ul>
+<li class="general-list-item general list-item">
+<!-- cgvSnListItemGeneral -->
+<!-- Image -->
+<!-- End Image -->
+<div class="title-and-desc title desc container"><a class="title" href="/types/lymphoma">Lymphoma—Patient Version</a><!-- start description -->
+<div class="description"><p class="body">Information about non-Hodgkin lymphoma and Hodgkin lymphoma treatment, clinical trials, research, statistics, and other topics from the National Cancer Institute.</p></div><!-- end description --></div><!-- end title & desc container -->
+</li></ul>
+</div>
+
+]]>
+</CategoryDisplay>
+</cde:BestBetsCategory>	

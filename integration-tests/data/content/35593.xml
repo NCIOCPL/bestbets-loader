@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cde:BestBetsCategory xsi:schemaLocation="http://www.example.org/CDESchema CDESchema.xsd" xmlns:cde="http://www.example.org/CDESchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<CategoryId>
+35593
+</CategoryId>
+<CategoryName><![CDATA[Spanish/Espa&ntilde;ol]]></CategoryName>
+<CategoryWeight>55</CategoryWeight>
+<IsExactMatch>false</IsExactMatch>
+<Language>en</Language>
+<Display>true</Display>
+<IncludeSynonyms><synonym IsExactMatch="false"><![CDATA[Espanol                                           ]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[Espa&ntilde;ol]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[Spanish]]></synonym>
+</IncludeSynonyms>
+<ExcludeSynonyms><synonym IsExactMatch="false"><![CDATA[publications]]></synonym></ExcludeSynonyms>
+<CategoryDisplay>
+<![CDATA[
+<div class="managed list">
+<ul>
+<li class="general-list-item general list-item">
+<!-- cgvSnListItemGeneral -->
+<!-- Image -->
+<!-- End Image -->
+<div class="title-and-desc title desc container"><a class="title" href="/espanol">Cáncer en español - Instituto Nacional del Cáncer</a><!-- start description -->
+<div class="description"><p class="body">P&aacute;gina principal del Instituto Nacional del C&aacute;ncer que ofrece informaci&oacute;n en espa&ntilde;ol sobre diferentes temas relacionados con el c&aacute;ncer.</p></div><!-- end description --></div><!-- end title & desc container -->
+</li></ul>
+</div>
+
+]]>
+</CategoryDisplay>
+</cde:BestBetsCategory>	

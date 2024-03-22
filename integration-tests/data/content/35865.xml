@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cde:BestBetsCategory xsi:schemaLocation="http://www.example.org/CDESchema CDESchema.xsd" xmlns:cde="http://www.example.org/CDESchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<CategoryId>
+35865
+</CategoryId>
+<CategoryName><![CDATA[Adverse Events]]></CategoryName>
+<CategoryWeight>20</CategoryWeight>
+<IsExactMatch>false</IsExactMatch>
+<Language>en</Language>
+<Display>true</Display>
+<IncludeSynonyms><synonym IsExactMatch="
+true"><![CDATA[event]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[adverse effect]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[adverse event reporting system]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[caAERS]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[AdEERS]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[adverse event expedited reporting]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[toxicity grading]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[CTCAE]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[common toxicity]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[NCICTCAE]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[NCI-CTC]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[toxicity grade]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[toxicity scale]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[NCI toxicity]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[CTC]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[toxicity classification]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[CTAE]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[NCICTC]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[toxicity criteria]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[toxicity table]]></synonym>
+</IncludeSynonyms>
+<ExcludeSynonyms></ExcludeSynonyms>
+<CategoryDisplay>
+<![CDATA[
+<div class="managed list">
+<ul>
+<li class="general-list-item general list-item">
+<!-- cgvSnListItemGeneral -->
+<!-- Image -->
+<!-- End Image -->
+<div class="title-and-desc title desc container"><a class="title" href="http://ctep.cancer.gov/protocolDevelopment/adverse_effects.htm">Adverse Events/Common Terminology Criteria for Adverse Events (CTCAE)</a><!-- start description -->
+<div class="description"><p class="body">Guidance for reporting adverse events experienced by patients enrolled in clinical trials, including common terminology criteria and details about reporting requirements.</p></div><!-- end description --></div><!-- end title & desc container -->
+</li></ul>
+</div>
+
+]]>
+</CategoryDisplay>
+</cde:BestBetsCategory>	

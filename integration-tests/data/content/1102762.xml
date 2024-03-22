@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cde:BestBetsCategory xsi:schemaLocation="http://www.example.org/CDESchema CDESchema.xsd" xmlns:cde="http://www.example.org/CDESchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<CategoryId>
+1102762
+</CategoryId>
+<CategoryName><![CDATA[Breast Cancer Statistics]]></CategoryName>
+<CategoryWeight>1</CategoryWeight>
+<IsExactMatch>false</IsExactMatch>
+<Language>en</Language>
+<Display>true</Display>
+<IncludeSynonyms><synonym IsExactMatch="false"><![CDATA[Breast Cancer Stats]]></synonym>
+</IncludeSynonyms>
+<ExcludeSynonyms></ExcludeSynonyms>
+<CategoryDisplay>
+<![CDATA[
+<div class="managed list">
+<ul>
+<li class="general-list-item general list-item">
+<!-- cgvSnListItemGeneral -->
+<!-- Image -->
+<!-- End Image -->
+<div class="title-and-desc title desc container"><a class="title" href="https://seer.cancer.gov/statfacts/html/breast.html">Cancer Stat Facts: Female Breast Cancer</a><!-- start description -->
+<div class="description"><p class="body">Summary of frequently requested breast cancer statistics, including incidence, mortality, survival, stage, prevalence, and lifetime risk.</p></div><!-- end description --></div><!-- end title & desc container -->
+</li><li class="general-list-item general list-item">
+<!-- cgvSnListItemGeneral -->
+<!-- Image -->
+<!-- End Image -->
+<div class="title-and-desc title desc container"><a class="title" href="/types/breast/risk-fact-sheet">Breast Cancer Risk in American Women</a><!-- start description -->
+<div class="description"><p class="body">A fact sheet that provides statistics about a woman’s risk of developing breast cancer and information about breast cancer risk factors.</p></div><!-- end description --></div><!-- end title & desc container -->
+</li></ul>
+</div>
+
+]]>
+</CategoryDisplay>
+</cde:BestBetsCategory>	

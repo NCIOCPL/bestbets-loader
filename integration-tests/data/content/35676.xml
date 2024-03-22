@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cde:BestBetsCategory xsi:schemaLocation="http://www.example.org/CDESchema CDESchema.xsd" xmlns:cde="http://www.example.org/CDESchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<CategoryId>
+35676
+</CategoryId>
+<CategoryName><![CDATA[Braquiterapia]]></CategoryName>
+<CategoryWeight>20</CategoryWeight>
+<IsExactMatch>false</IsExactMatch>
+<Language>es-us</Language>
+<Display>true</Display>
+<IncludeSynonyms></IncludeSynonyms>
+<ExcludeSynonyms></ExcludeSynonyms>
+<CategoryDisplay>
+<![CDATA[
+<div class="managed list">
+<ul>
+<li class="file-list-item file pdf list-item list-pdf"><!-- Image -->
+<!-- End Image -->
+<div class="title-and-desc title desc container"><a class="list-pdf title" href="/espanol/publicaciones/educacion-para-pacientes/braquiterapia.pdf">La braquiterapia (un tipo de radioterapia interna)</a>
+ <span class="filetype pdf"><span class="hidden">pdf file</span></span> <span class="filesize">(200 KB)</span><div class="description"><p class="body">Información para personas que necesitan entender cómo funciona la braquiterapia (un tipo de radioterapia interna).</p></div></div></li><li class="general-list-item general list-item">
+<!-- cgvSnListItemGeneral -->
+<!-- Image -->
+<!-- End Image -->
+<div class="title-and-desc title desc container"><a class="title" href="/espanol/publicaciones/educacion-para-pacientes/radioterapia-y-usted">La radioterapia y usted: Apoyo para las personas con cáncer</a><!-- start description -->
+<div class="description"><p class="body">Contiene información sobre los efectos secundarios que pueden tener los pacientes durante la radioterapia y qué hacer para controlarlos.</p></div><!-- end description --></div><!-- end title & desc container -->
+</li><li class="general-list-item general list-item">
+<!-- cgvSnListItemGeneral -->
+<!-- Image -->
+<!-- End Image -->
+<div class="title-and-desc title desc container"><a class="title" href="/espanol/cancer/tratamiento/tipos/radioterapia">Radioterapia para tratar el cáncer</a><!-- start description -->
+<div class="description"><p class="body">La radioterapia es un tipo de tratamiento del cáncer que usa altas dosis de radiación para destruir células cancerosas y reducir el tamaño de tumores. Aprenda acerca de los tipos de radiación, por qué suceden efectos secundarios, cuáles pueden suceder y más. </p></div><!-- end description --></div><!-- end title & desc container -->
+</li></ul>
+</div>
+
+]]>
+</CategoryDisplay>
+</cde:BestBetsCategory>	

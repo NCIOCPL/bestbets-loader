@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cde:BestBetsCategory xsi:schemaLocation="http://www.example.org/CDESchema CDESchema.xsd" xmlns:cde="http://www.example.org/CDESchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<CategoryId>
+1111517
+</CategoryId>
+<CategoryName><![CDATA[Lip and Oral Cavity Cancer]]></CategoryName>
+<CategoryWeight>300</CategoryWeight>
+<IsExactMatch>false</IsExactMatch>
+<Language>en</Language>
+<Display>true</Display>
+<IncludeSynonyms><synonym IsExactMatch="false"><![CDATA[Mouth Cancer]]></synonym>
+</IncludeSynonyms>
+<ExcludeSynonyms></ExcludeSynonyms>
+<CategoryDisplay>
+<![CDATA[
+<div class="managed list">
+<ul>
+<li class="general-list-item general list-item">
+<!-- cgvSnListItemGeneral -->
+<!-- Image -->
+<!-- End Image -->
+<div class="title-and-desc title desc container"><a class="title" href="/types/head-and-neck/patient/adult/lip-mouth-treatment-pdq">Lip and Oral Cavity Cancer Treatment (Adult) (PDQ®)–Patient Version</a><!-- start description -->
+<div class="description"><p class="body">Lip and oral cavity cancer treatment can include surgery, radiation therapy, or both, and depends on the site and extent of the tumor.  Learn more about the diagnosis and treatment of newly diagnosed and recurrent lip and oral cancer in this expert-reviewed summary.</p></div><!-- end description --></div><!-- end title & desc container -->
+</li><li class="general-list-item general list-item">
+<!-- cgvSnListItemGeneral -->
+<!-- Image -->
+<!-- End Image -->
+<div class="title-and-desc title desc container"><a class="title" href="https://seer.cancer.gov/statfacts/html/oralcav.html">Cancer Stat Facts: Oral Cavity and Pharynx Cancer</a><!-- start description -->
+<div class="description"><p class="body">A quick overview of frequently-requested statistics on oral cavity and pharynx cancer. Statistics are based on SEER data and include incidence, mortality, survival, stage, prevalence, and lifetime risk.</p></div><!-- end description --></div><!-- end title & desc container -->
+</li></ul>
+</div>
+
+]]>
+</CategoryDisplay>
+</cde:BestBetsCategory>	
