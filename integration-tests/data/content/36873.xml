@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cde:BestBetsCategory xsi:schemaLocation="http://www.example.org/CDESchema CDESchema.xsd" xmlns:cde="http://www.example.org/CDESchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<CategoryId>
+36873
+</CategoryId>
+<CategoryName><![CDATA[Estudios cl&iacute;nicos]]></CategoryName>
+<CategoryWeight>5</CategoryWeight>
+<IsExactMatch>false</IsExactMatch>
+<Language>es-us</Language>
+<Display>true</Display>
+<IncludeSynonyms><synonym IsExactMatch="false"><![CDATA[estudios clinicos]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[ensayos clinicos]]></synonym>
+</IncludeSynonyms>
+<ExcludeSynonyms><synonym IsExactMatch="false"><![CDATA[Red Nacional de Estudios Clínicos]]></synonym><synonym IsExactMatch="false"><![CDATA[National Clinical Trials Network]]></synonym><synonym IsExactMatch="false"><![CDATA[NCTN]]></synonym></ExcludeSynonyms>
+<CategoryDisplay>
+<![CDATA[
+<div class="managed list">
+<ul>
+<li class="general-list-item general list-item">
+<!-- cgvSnListItemGeneral -->
+<!-- Image -->
+<!-- End Image -->
+<div class="title-and-desc title desc container"><a class="title" href="/espanol/investigacion/areas/estudios-clinicos">Programas e iniciativas de estudios clínicos del NCI</a><!-- start description -->
+<div class="description"><p class="body">Información sobre los programas e iniciativas del NCI que patrocinan, realizan, crean o apoyan estudios clínicos, entre los que se incluyen la Red Nacional de Estudios Clínicos (NCTN) y el Programa Comunitario de Investigación Oncológica (NCORP) del NCI.</p></div><!-- end description --></div><!-- end title & desc container -->
+</li></ul>
+</div>
+
+]]>
+</CategoryDisplay>
+</cde:BestBetsCategory>	

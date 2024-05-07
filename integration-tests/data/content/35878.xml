@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cde:BestBetsCategory xsi:schemaLocation="http://www.example.org/CDESchema CDESchema.xsd" xmlns:cde="http://www.example.org/CDESchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<CategoryId>
+35878
+</CategoryId>
+<CategoryName><![CDATA[Vaccine Branch]]></CategoryName>
+<CategoryWeight>100</CategoryWeight>
+<IsExactMatch>false</IsExactMatch>
+<Language>en</Language>
+<Display>true</Display>
+<IncludeSynonyms></IncludeSynonyms>
+<ExcludeSynonyms></ExcludeSynonyms>
+<CategoryDisplay>
+<![CDATA[
+<div class="managed list">
+<ul>
+<li class="general-list-item general list-item">
+<!-- cgvSnListItemGeneral -->
+<!-- Image -->
+<!-- End Image -->
+<div class="title-and-desc title desc container"><a class="title" href="http://ccr.cancer.gov/labs/lab.asp?labid=173">Vaccine Branch</a><!-- start description -->
+<div class="description"><p class="body">By combining expertise in both cancer and retroviral vaccines, the Vaccine Branch aims to promote cross-fertilization of ideas and progress in both areas in a unique way that is not duplicated elsewhere.</p></div><!-- end description --></div><!-- end title & desc container -->
+</li></ul>
+</div>
+
+]]>
+</CategoryDisplay>
+</cde:BestBetsCategory>	

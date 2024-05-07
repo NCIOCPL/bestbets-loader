@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cde:BestBetsCategory xsi:schemaLocation="http://www.example.org/CDESchema CDESchema.xsd" xmlns:cde="http://www.example.org/CDESchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<CategoryId>
+35907
+</CategoryId>
+<CategoryName><![CDATA[GIST]]></CategoryName>
+<CategoryWeight>55</CategoryWeight>
+<IsExactMatch>false</IsExactMatch>
+<Language>en</Language>
+<Display>true</Display>
+<IncludeSynonyms><synonym IsExactMatch="false"><![CDATA[gastro intestinal]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[gastrointestinal]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[GI stromal]]></synonym>
+</IncludeSynonyms>
+<ExcludeSynonyms><synonym IsExactMatch="false"><![CDATA[lymphoma]]></synonym><synonym IsExactMatch="false"><![CDATA[complications]]></synonym><synonym IsExactMatch="false"><![CDATA[endoscopy]]></synonym><synonym IsExactMatch="false"><![CDATA[carcinoid]]></synonym></ExcludeSynonyms>
+<CategoryDisplay>
+<![CDATA[
+<div class="managed list">
+<ul>
+<li class="general-list-item general list-item">
+<!-- cgvSnListItemGeneral -->
+<!-- Image -->
+<!-- End Image -->
+<div class="title-and-desc title desc container"><a class="title" href="/types/soft-tissue-sarcoma/patient/gist-treatment-pdq">Gastrointestinal Stromal Tumors Treatment (PDQ®)–Patient Version</a><!-- start description -->
+<div class="description"><p class="body">Gastrointestinal stromal tumors (GIST) are usually found on the stomach or small intestine, but they can be found anywhere in or near the GI tract. Find out about risk factors, symptoms, tests to diagnose, prognosis, staging, and treatment for gastrointestinal stromal tumors.</p></div><!-- end description --></div><!-- end title & desc container -->
+</li><li class="general-list-item general list-item">
+<!-- cgvSnListItemGeneral -->
+<!-- Image -->
+<!-- End Image -->
+<div class="title-and-desc title desc container"><a class="title" href="/types/childhood-cancers/patient/unusual-cancers-childhood-pdq">Unusual Cancers of Childhood Treatment (PDQ®)–Patient Version</a><!-- start description -->
+<div class="description"><p class="body">Treatment for unusual cancers of childhood depends on the specific cancer (e.g., nasopharyngeal, thyroid, oral, laryngeal, lung, esophageal, cardiac). See the full list and learn more about treatment for these cancers in this expert-reviewed summary.</p></div><!-- end description --></div><!-- end title & desc container -->
+</li></ul>
+</div>
+
+]]>
+</CategoryDisplay>
+</cde:BestBetsCategory>	

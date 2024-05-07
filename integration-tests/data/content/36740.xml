@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cde:BestBetsCategory xsi:schemaLocation="http://www.example.org/CDESchema CDESchema.xsd" xmlns:cde="http://www.example.org/CDESchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<CategoryId>
+36740
+</CategoryId>
+<CategoryName><![CDATA[Estad&iacute;sticas]]></CategoryName>
+<CategoryWeight>20</CategoryWeight>
+<IsExactMatch>
+true</IsExactMatch>
+<Language>es-us</Language>
+<Display>true</Display>
+<IncludeSynonyms><synonym IsExactMatch="
+true"><![CDATA[estadisticas de cancer]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[estadistica]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[incidencia]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[estadisticas del cancer]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[estadisticas]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[incidencia del cancer]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[incidencia de cancer]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[mortalidad]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[estadísticas]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[estadística]]></synonym>
+</IncludeSynonyms>
+<ExcludeSynonyms></ExcludeSynonyms>
+<CategoryDisplay>
+<![CDATA[
+<div class="managed list">
+<ul>
+<li class="general-list-item general list-item">
+<!-- cgvSnListItemGeneral -->
+<!-- Image -->
+<!-- End Image -->
+<div class="title-and-desc title desc container"><a class="title" href="/espanol/cancer/naturaleza/estadisticas">Estadísticas del cáncer</a><!-- start description -->
+<div class="description"><p class="body">Información básica sobre las estadísticas del cáncer, las cuales describen las tendencias en grupos grandes de personas y ofrecen una imagen a través del tiempo de la carga que representa el cáncer en la sociedad.</p></div><!-- end description --></div><!-- end title & desc container -->
+</li><li class="general-list-item general list-item">
+<!-- cgvSnListItemGeneral -->
+<!-- Image -->
+<!-- End Image -->
+<div class="title-and-desc title desc container"><a class="title" href="/espanol/tipos/comunes">Tipos comunes de cáncer</a><!-- start description -->
+<div class="description"><p class="body">La lista de cánceres comunes incluye cánceres que se diagnostican con mayor frecuencia en Estados Unidos. Esta página ofrece las estadísticas de incidencia y mortalidad más recientes para estos tipos de cancer.</p></div><!-- end description --></div><!-- end title & desc container -->
+</li></ul>
+</div>
+
+]]>
+</CategoryDisplay>
+</cde:BestBetsCategory>	

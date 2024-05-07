@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cde:BestBetsCategory xsi:schemaLocation="http://www.example.org/CDESchema CDESchema.xsd" xmlns:cde="http://www.example.org/CDESchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<CategoryId>
+36330
+</CategoryId>
+<CategoryName><![CDATA[Craneofaringioma]]></CategoryName>
+<CategoryWeight>25</CategoryWeight>
+<IsExactMatch>false</IsExactMatch>
+<Language>es-us</Language>
+<Display>true</Display>
+<IncludeSynonyms></IncludeSynonyms>
+<ExcludeSynonyms></ExcludeSynonyms>
+<CategoryDisplay>
+<![CDATA[
+<div class="managed list">
+<ul>
+<li class="general-list-item general list-item">
+<!-- cgvSnListItemGeneral -->
+<!-- Image -->
+<!-- End Image -->
+<div class="title-and-desc title desc container"><a class="title" href="/espanol/tipos/cerebro/pro/tratamiento-cerebro-adultos-pdq">Tumores cerebrales en adultos: Tratamiento (PDQ&reg;) (Profesionales de salud)</a><!-- start description -->
+<div class="description"><p class="body">Resumen de informaci&oacute;n revisada por expertos acerca del tratamiento de los tumores cerebrales en adultos. (Versi&oacute;n para profesionales de salud.)</p></div><!-- end description --></div><!-- end title & desc container -->
+</li></ul>
+</div>
+
+]]>
+</CategoryDisplay>
+</cde:BestBetsCategory>	

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cde:BestBetsCategory xsi:schemaLocation="http://www.example.org/CDESchema CDESchema.xsd" xmlns:cde="http://www.example.org/CDESchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<CategoryId>
+36815
+</CategoryId>
+<CategoryName><![CDATA[LMC]]></CategoryName>
+<CategoryWeight>4</CategoryWeight>
+<IsExactMatch>false</IsExactMatch>
+<Language>es-us</Language>
+<Display>true</Display>
+<IncludeSynonyms><synonym IsExactMatch="false"><![CDATA[leucemia mielogena]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[leucemia cronica]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[mieloide]]></synonym>
+</IncludeSynonyms>
+<ExcludeSynonyms><synonym IsExactMatch="false"><![CDATA[mielocitica]]></synonym><synonym IsExactMatch="false"><![CDATA[aguda]]></synonym><synonym IsExactMatch="false"><![CDATA[linfocitica]]></synonym><synonym IsExactMatch="false"><![CDATA[linfatica]]></synonym></ExcludeSynonyms>
+<CategoryDisplay>
+<![CDATA[
+<div class="managed list">
+<ul>
+<li class="general-list-item general list-item">
+<!-- cgvSnListItemGeneral -->
+<!-- Image -->
+<!-- End Image -->
+<div class="title-and-desc title desc container"><a class="title" href="/espanol/tipos/leucemia/paciente/tratamiento-lma-infantil-pdq">Tratamiento de la leucemia mieloide aguda y otras neoplasias mieloides malignas infantiles (PDQ®)–Versión para pacientes</a><!-- start description -->
+<div class="description"><p class="body">Resumen de información revisada por expertos acerca del tratamiento del cáncer de la leucemia mieloide aguda y otras neoplasias mieloides malignas infantiles.</p></div><!-- end description --></div><!-- end title & desc container -->
+</li><li class="general-list-item general list-item">
+<!-- cgvSnListItemGeneral -->
+<!-- Image -->
+<!-- End Image -->
+<div class="title-and-desc title desc container"><a class="title" href="/espanol/tipos/leucemia/pro/tratamiento-lma-infantil-pdq">Tratamiento de la leucemia mieloide aguda y otras neoplasias mieloides malignas infantiles (PDQ®)–Versión para profesionales de salud</a><!-- start description -->
+<div class="description"><p class="body">Resumen de información revisada por expertos acerca del tratamiento de la leucemia mieloide aguda infantil, los síndromes mielodisplásicos y otros trastornos mieloproliferativos.</p></div><!-- end description --></div><!-- end title & desc container -->
+</li></ul>
+</div>
+
+]]>
+</CategoryDisplay>
+</cde:BestBetsCategory>	

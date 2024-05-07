@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cde:BestBetsCategory xsi:schemaLocation="http://www.example.org/CDESchema CDESchema.xsd" xmlns:cde="http://www.example.org/CDESchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<CategoryId>
+35774
+</CategoryId>
+<CategoryName><![CDATA[Adenoid Cystic Carcinoma]]></CategoryName>
+<CategoryWeight>25</CategoryWeight>
+<IsExactMatch>false</IsExactMatch>
+<Language>en</Language>
+<Display>true</Display>
+<IncludeSynonyms><synonym IsExactMatch="false"><![CDATA[adnoid]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[adenocystic]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[cylindroma]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[adenoid]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[ACC]]></synonym>
+</IncludeSynonyms>
+<ExcludeSynonyms><synonym IsExactMatch="false"><![CDATA[breast]]></synonym></ExcludeSynonyms>
+<CategoryDisplay>
+<![CDATA[
+<div class="managed list">
+<ul>
+<li class="general-list-item general list-item">
+<!-- cgvSnListItemGeneral -->
+<!-- Image -->
+<!-- End Image -->
+<div class="title-and-desc title desc container"><a class="title" href="/types/head-and-neck/hp/adult/salivary-gland-treatment-pdq">Salivary Gland Cancer Treatment (PDQ&reg;) (Health Professional)</a><!-- start description -->
+<div class="description"><p class="body">Expert-reviewed information summary about the treatment of salivary gland cancer. (Health professional version.)</p></div><!-- end description --></div><!-- end title & desc container -->
+</li></ul>
+</div>
+
+]]>
+</CategoryDisplay>
+</cde:BestBetsCategory>	

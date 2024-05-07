@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cde:BestBetsCategory xsi:schemaLocation="http://www.example.org/CDESchema CDESchema.xsd" xmlns:cde="http://www.example.org/CDESchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<CategoryId>
+36279
+</CategoryId>
+<CategoryName><![CDATA[Brain Tumor]]></CategoryName>
+<CategoryWeight>25</CategoryWeight>
+<IsExactMatch>false</IsExactMatch>
+<Language>en</Language>
+<Display>true</Display>
+<IncludeSynonyms><synonym IsExactMatch="false"><![CDATA[braintumor]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[braincancer]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[brain]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[neurooncology]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[neuro-oncology]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[brian cancer]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[brian tumor]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[neuro oncology]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[cerebellar]]></synonym>
+</IncludeSynonyms>
+<ExcludeSynonyms><synonym IsExactMatch="false"><![CDATA[bleeding]]></synonym><synonym IsExactMatch="false"><![CDATA[palsy]]></synonym><synonym IsExactMatch="false"><![CDATA[photo]]></synonym><synonym IsExactMatch="false"><![CDATA[metastisis]]></synonym><synonym IsExactMatch="false"><![CDATA[children]]></synonym><synonym IsExactMatch="false"><![CDATA[types]]></synonym><synonym IsExactMatch="false"><![CDATA[inoperable]]></synonym><synonym IsExactMatch="false"><![CDATA[benign]]></synonym><synonym IsExactMatch="false"><![CDATA[injury]]></synonym><synonym IsExactMatch="false"><![CDATA[chemo brain]]></synonym><synonym IsExactMatch="false"><![CDATA[child]]></synonym><synonym IsExactMatch="false"><![CDATA[syptoms]]></synonym><synonym IsExactMatch="false"><![CDATA[symptoms]]></synonym><synonym IsExactMatch="false"><![CDATA[juvenile]]></synonym><synonym IsExactMatch="false"><![CDATA[optic]]></synonym><synonym IsExactMatch="false"><![CDATA[whole brain radiation]]></synonym><synonym IsExactMatch="false"><![CDATA[radiation necrosis]]></synonym><synonym IsExactMatch="false"><![CDATA[lesion]]></synonym><synonym IsExactMatch="false"><![CDATA[stem]]></synonym><synonym IsExactMatch="false"><![CDATA[glioma]]></synonym><synonym IsExactMatch="false"><![CDATA[swelling]]></synonym><synonym IsExactMatch="false"><![CDATA[mets]]></synonym><synonym IsExactMatch="false"><![CDATA[symtoms]]></synonym><synonym IsExactMatch="false"><![CDATA[Branch]]></synonym><synonym IsExactMatch="false"><![CDATA[metastasis]]></synonym><synonym IsExactMatch="false"><![CDATA[met]]></synonym><synonym IsExactMatch="false"><![CDATA[barrier]]></synonym><synonym IsExactMatch="false"><![CDATA[melanoma]]></synonym><synonym IsExactMatch="false"><![CDATA[astrocytoma]]></synonym><synonym IsExactMatch="false"><![CDATA[signs]]></synonym><synonym IsExactMatch="false"><![CDATA[cyst]]></synonym><synonym IsExactMatch="false"><![CDATA[symtons]]></synonym><synonym IsExactMatch="false"><![CDATA[secondary]]></synonym><synonym IsExactMatch="false"><![CDATA[symptons]]></synonym><synonym IsExactMatch="false"><![CDATA[Network]]></synonym><synonym IsExactMatch="false"><![CDATA[prevention]]></synonym><synonym IsExactMatch="false"><![CDATA[edema]]></synonym><synonym IsExactMatch="false"><![CDATA[metastases]]></synonym><synonym IsExactMatch="false"><![CDATA[childhood]]></synonym><synonym IsExactMatch="false"><![CDATA[symtems]]></synonym><synonym IsExactMatch="false"><![CDATA[pediatric]]></synonym><synonym IsExactMatch="false"><![CDATA[lymphoma]]></synonym><synonym IsExactMatch="false"><![CDATA[picture]]></synonym><synonym IsExactMatch="false"><![CDATA[PRG]]></synonym><synonym IsExactMatch="false"><![CDATA[Group]]></synonym><synonym IsExactMatch="false"><![CDATA[metastatic]]></synonym></ExcludeSynonyms>
+<CategoryDisplay>
+<![CDATA[
+<div class="managed list">
+<ul>
+<li class="general-list-item general list-item">
+<!-- cgvSnListItemGeneral -->
+<!-- Image -->
+<!-- End Image -->
+<div class="title-and-desc title desc container"><a class="title" href="/types/brain">Brain Tumors—Patient Version</a><!-- start description -->
+<div class="description"><p class="body">Information about brain tumor treatment, clinical trials, research, statistics, and other topics.</p></div><!-- end description --></div><!-- end title & desc container -->
+</li></ul>
+</div>
+
+]]>
+</CategoryDisplay>
+</cde:BestBetsCategory>	

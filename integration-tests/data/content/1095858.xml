@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cde:BestBetsCategory xsi:schemaLocation="http://www.example.org/CDESchema CDESchema.xsd" xmlns:cde="http://www.example.org/CDESchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<CategoryId>
+1095858
+</CategoryId>
+<CategoryName><![CDATA[IRM]]></CategoryName>
+<CategoryWeight>50</CategoryWeight>
+<IsExactMatch>false</IsExactMatch>
+<Language>es-us</Language>
+<Display>true</Display>
+<IncludeSynonyms><synonym IsExactMatch="false"><![CDATA[ imágenes por resonancia magnética]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[imágenes por resonancia magnética nuclear]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[IRMN]]></synonym>
+</IncludeSynonyms>
+<ExcludeSynonyms></ExcludeSynonyms>
+<CategoryDisplay>
+<![CDATA[
+<div class="managed list">
+<ul>
+<li class="general-list-item general list-item">
+<!-- cgvSnListItemGeneral -->
+<!-- Image -->
+<!-- End Image -->
+<div class="title-and-desc title desc container"><a class="title" href="/espanol/cancer/diagnostico-estadificacion/diagnostico">Diagnóstico</a><!-- start description -->
+<div class="description"><p class="body">Entérese de las pruebas y procedimientos que el doctor podría ordenar para conocer la razón de sus problemas.</p></div><!-- end description --></div><!-- end title & desc container -->
+</li></ul>
+</div>
+
+]]>
+</CategoryDisplay>
+</cde:BestBetsCategory>	

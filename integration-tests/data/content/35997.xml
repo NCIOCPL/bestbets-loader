@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cde:BestBetsCategory xsi:schemaLocation="http://www.example.org/CDESchema CDESchema.xsd" xmlns:cde="http://www.example.org/CDESchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<CategoryId>
+35997
+</CategoryId>
+<CategoryName><![CDATA[Malignant Peripheral Nerve Sheath Tumor]]></CategoryName>
+<CategoryWeight>20</CategoryWeight>
+<IsExactMatch>false</IsExactMatch>
+<Language>en</Language>
+<Display>true</Display>
+<IncludeSynonyms><synonym IsExactMatch="false"><![CDATA[peripheral nerve]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[nerve sheath]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[nerve cancer]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[MPNST]]></synonym>
+</IncludeSynonyms>
+<ExcludeSynonyms><synonym IsExactMatch="false"><![CDATA[tratamiento]]></synonym></ExcludeSynonyms>
+<CategoryDisplay>
+<![CDATA[
+<div class="managed list">
+<ul>
+<li class="general-list-item general list-item">
+<!-- cgvSnListItemGeneral -->
+<!-- Image -->
+<!-- End Image -->
+<div class="title-and-desc title desc container"><a class="title" href="/types/soft-tissue-sarcoma/hp/child-soft-tissue-treatment-pdq">Childhood Soft Tissue Sarcoma Treatment (PDQ®)–Health Professional Version</a><!-- start description -->
+<div class="description"><p class="body">Treatment options for children with soft tissue sarcoma include surgery, radiation therapy, chemotherapy, and targeted therapy. Get detailed information about the treatment of newly diagnosed, metastatic, and recurrent soft tissue sarcoma in this summary for clinicians.</p></div><!-- end description --></div><!-- end title & desc container -->
+</li></ul>
+</div>
+
+]]>
+</CategoryDisplay>
+</cde:BestBetsCategory>	

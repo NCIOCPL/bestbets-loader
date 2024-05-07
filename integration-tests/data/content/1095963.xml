@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cde:BestBetsCategory xsi:schemaLocation="http://www.example.org/CDESchema CDESchema.xsd" xmlns:cde="http://www.example.org/CDESchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<CategoryId>
+1095963
+</CategoryId>
+<CategoryName><![CDATA[Finasterida (Proscar®)]]></CategoryName>
+<CategoryWeight>20</CategoryWeight>
+<IsExactMatch>false</IsExactMatch>
+<Language>es-us</Language>
+<Display>true</Display>
+<IncludeSynonyms><synonym IsExactMatch="false"><![CDATA[Finasterida]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[Proscar]]></synonym>
+</IncludeSynonyms>
+<ExcludeSynonyms></ExcludeSynonyms>
+<CategoryDisplay>
+<![CDATA[
+<div class="managed list">
+<ul>
+<li class="general-list-item general list-item">
+<!-- cgvSnListItemGeneral -->
+<!-- Image -->
+<!-- End Image -->
+<div class="title-and-desc title desc container"><a class="title" href="/espanol/tipos/prostata/paciente/prevencion-prostata-pdq">Prevención del cáncer de próstata (PDQ®)–Versión para pacientes</a><!-- start description -->
+<div class="description"><p class="body">Sumario de información revisada por expertos sobre los factores que pueden influir en el riesgo de cáncer de próstata y sobre la investigación dirigida a la prevención de esta enfermedad.</p></div><!-- end description --></div><!-- end title & desc container -->
+</li><li class="general-list-item general list-item">
+<!-- cgvSnListItemGeneral -->
+<!-- Image -->
+<!-- End Image -->
+<div class="title-and-desc title desc container"><a class="title" href="/espanol/tipos/prostata/pro/prevencion-prostata-pdq">Prevención del cáncer de próstata (PDQ®)–Versión para profesionales de salud</a><!-- start description -->
+<div class="description"><p class="body">Sumario de información revisada por expertos sobre los factores que pueden influir en el riesgo de cáncer de próstata y sobre la investigación dirigida a la prevención de esta enfermedad.</p></div><!-- end description --></div><!-- end title & desc container -->
+</li></ul>
+</div>
+
+]]>
+</CategoryDisplay>
+</cde:BestBetsCategory>	

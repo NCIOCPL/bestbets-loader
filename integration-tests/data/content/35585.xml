@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cde:BestBetsCategory xsi:schemaLocation="http://www.example.org/CDESchema CDESchema.xsd" xmlns:cde="http://www.example.org/CDESchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<CategoryId>
+35585
+</CategoryId>
+<CategoryName><![CDATA[K01 Award]]></CategoryName>
+<CategoryWeight>30</CategoryWeight>
+<IsExactMatch>false</IsExactMatch>
+<Language>en</Language>
+<Display>true</Display>
+<IncludeSynonyms><synonym IsExactMatch="false"><![CDATA[k01]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[ko1]]></synonym>
+</IncludeSynonyms>
+<ExcludeSynonyms></ExcludeSynonyms>
+<CategoryDisplay>
+<![CDATA[
+<div class="managed list">
+<ul>
+<li class="general-list-item general list-item">
+<!-- cgvSnListItemGeneral -->
+<!-- Image -->
+<!-- End Image -->
+<div class="title-and-desc title desc container"><a class="title" href="http://deainfo.nci.nih.gov/flash/awards.htm">Grant Mechanisms and Descriptions</a><!-- start description -->
+<div class="description"><p class="body">List of grant mechanisms, with descriptions and links to associated program announcements.</p></div><!-- end description --></div><!-- end title & desc container -->
+</li><li class="general-list-item general list-item">
+<!-- cgvSnListItemGeneral -->
+<!-- Image -->
+<!-- End Image -->
+<div class="title-and-desc title desc container"><a class="title" href="/grants-training/training/about">Center for Cancer Training (CCT)</a><!-- start description -->
+<div class="description"><p class="body">CCT's mission is to catalyze the development of a 21st century workforce capable of advancing cancer research through a scientifically integrated approach. </p></div><!-- end description --></div><!-- end title & desc container -->
+</li></ul>
+</div>
+
+]]>
+</CategoryDisplay>
+</cde:BestBetsCategory>	

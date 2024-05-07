@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cde:BestBetsCategory xsi:schemaLocation="http://www.example.org/CDESchema CDESchema.xsd" xmlns:cde="http://www.example.org/CDESchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<CategoryId>
+1055466
+</CategoryId>
+<CategoryName><![CDATA[Lynch Syndrome]]></CategoryName>
+<CategoryWeight>50</CategoryWeight>
+<IsExactMatch>false</IsExactMatch>
+<Language>en</Language>
+<Display>true</Display>
+<IncludeSynonyms></IncludeSynonyms>
+<ExcludeSynonyms></ExcludeSynonyms>
+<CategoryDisplay>
+<![CDATA[
+<div class="managed list">
+<ul>
+<li class="general-list-item general list-item">
+<!-- cgvSnListItemGeneral -->
+<!-- Image -->
+<!-- End Image -->
+<div class="title-and-desc title desc container"><a class="title" href="/about-cancer/causes-prevention/genetics/genetic-testing-fact-sheet">Genetic Testing for Hereditary Cancer Syndromes</a><!-- start description -->
+<div class="description"><p class="body">A fact sheet about genetic testing for inherited cancer risk, including types of tests, who should consider testing, how to understand test results, and who has access to a person’s test results. Also contains information about at-home, or direct-to-consumer, genetic tests. </p></div><!-- end description --></div><!-- end title & desc container -->
+</li><li class="general-list-item general list-item">
+<!-- cgvSnListItemGeneral -->
+<!-- Image -->
+<!-- End Image -->
+<div class="title-and-desc title desc container"><a class="title" href="/types/breast/hp/breast-ovarian-genetics-pdq">Genetics of Breast and Gynecologic Cancers (PDQ®)–Health Professional Version</a><!-- start description -->
+<div class="description"><p class="body">Genetics of Breast and Gynecologic Cancers includes information on BRCA1 and BRCA2 variants (breast and ovarian cancer) and Lynch syndrome (endometrial cancer). Get more information about hereditary breast and gynecologic cancer syndromes in this clinician summary.</p></div><!-- end description --></div><!-- end title & desc container -->
+</li><li class="general-list-item general list-item">
+<!-- cgvSnListItemGeneral -->
+<!-- Image -->
+<!-- End Image -->
+<div class="title-and-desc title desc container"><a class="title" href="/types/colorectal/hp/colorectal-genetics-pdq">Genetics of Colorectal Cancer (PDQ®)–Health Professional Version</a><!-- start description -->
+<div class="description"><p class="body">Hereditary colorectal cancer syndromes include Lynch syndrome and several polyposis syndromes (familial adenomatous polyposis, MUTYH-associated polyposis, juvenile polyposis syndrome, Peutz-Jeghers syndrome, and serrated polyposis syndrome). Learn about the genetics, clinical manifestations, management, and psychosocial aspects of these and other hereditary colon cancer syndromes in this expert-reviewed summary.</p></div><!-- end description --></div><!-- end title & desc container -->
+</li></ul>
+</div>
+
+]]>
+</CategoryDisplay>
+</cde:BestBetsCategory>	

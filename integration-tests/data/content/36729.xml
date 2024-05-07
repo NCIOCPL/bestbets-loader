@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cde:BestBetsCategory xsi:schemaLocation="http://www.example.org/CDESchema CDESchema.xsd" xmlns:cde="http://www.example.org/CDESchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<CategoryId>
+36729
+</CategoryId>
+<CategoryName><![CDATA[Brain Metastasis]]></CategoryName>
+<CategoryWeight>55</CategoryWeight>
+<IsExactMatch>false</IsExactMatch>
+<Language>en</Language>
+<Display>true</Display>
+<IncludeSynonyms><synonym IsExactMatch="false"><![CDATA[brain met]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[secondary brain]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[metastatic brain]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[brain mets]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[brain metastases]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[brain metastisis]]></synonym>
+</IncludeSynonyms>
+<ExcludeSynonyms></ExcludeSynonyms>
+<CategoryDisplay>
+<![CDATA[
+<div class="managed list">
+<ul>
+<li class="general-list-item general list-item">
+<!-- cgvSnListItemGeneral -->
+<!-- Image -->
+<!-- End Image -->
+<div class="title-and-desc title desc container"><a class="title" href="/types/brain/patient/adult-brain-treatment-pdq">Adult Central Nervous System Tumors Treatment (PDQ®)–Patient Version</a><!-- start description -->
+<div class="description"><p class="body">Adult central nervous system tumor treatment may include surgery, radiosurgery, radiation therapy, chemotherapy, surveillance, and targeted therapy. Treatment depends on the tumor type. Learn more about brain and spinal tumor treatment in this expert-reviewed summary.</p></div><!-- end description --></div><!-- end title & desc container -->
+</li><li class="general-list-item general list-item">
+<!-- cgvSnListItemGeneral -->
+<!-- Image -->
+<!-- End Image -->
+<div class="title-and-desc title desc container"><a class="title" href="/types/brain/hp/adult-brain-treatment-pdq">Adult Central Nervous System Tumors Treatment (PDQ®)–Health Professional Version</a><!-- start description -->
+<div class="description"><p class="body">Adult central nervous system tumor treatment options include surgery, radiosurgery, radiation therapy, chemotherapy, surveillance, and supportive care. Get detailed information about the types and treatment of newly diagnosed and recurrent brain and spinal tumors in this clinician summary.</p></div><!-- end description --></div><!-- end title & desc container -->
+</li></ul>
+</div>
+
+]]>
+</CategoryDisplay>
+</cde:BestBetsCategory>	

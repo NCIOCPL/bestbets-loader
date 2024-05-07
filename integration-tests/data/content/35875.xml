@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cde:BestBetsCategory xsi:schemaLocation="http://www.example.org/CDESchema CDESchema.xsd" xmlns:cde="http://www.example.org/CDESchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<CategoryId>
+35875
+</CategoryId>
+<CategoryName><![CDATA[Chemotherapy Side Effects]]></CategoryName>
+<CategoryWeight>50</CategoryWeight>
+<IsExactMatch>
+true</IsExactMatch>
+<Language>en</Language>
+<Display>true</Display>
+<IncludeSynonyms><synonym IsExactMatch="false"><![CDATA[chemotherapy complications]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[chemo affects]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[chemo effects]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[managing chemotherapy]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[chemotherapy affects]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[chemotherapy effects]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[chemotherapy sideeffects]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[chemotherapy toxicity]]></synonym>
+</IncludeSynonyms>
+<ExcludeSynonyms><synonym IsExactMatch="false"><![CDATA[radiation]]></synonym><synonym IsExactMatch="false"><![CDATA[oral]]></synonym><synonym IsExactMatch="false"><![CDATA[long term]]></synonym><synonym IsExactMatch="false"><![CDATA[late]]></synonym></ExcludeSynonyms>
+<CategoryDisplay>
+<![CDATA[
+<div class="managed list">
+<ul>
+<li class="general-list-item general list-item">
+<!-- cgvSnListItemGeneral -->
+<!-- Image -->
+<!-- End Image -->
+<div class="title-and-desc title desc container"><a class="title" href="/publications/patient-education/chemo-and-you">Chemotherapy and You: Support for People With Cancer</a><!-- start description -->
+<div class="description"><p class="body">Covers side effects that patients may have during chemotherapy and ways to manage them.</p></div><!-- end description --></div><!-- end title & desc container -->
+</li><li class="general-list-item general list-item">
+<!-- cgvSnListItemGeneral -->
+<!-- Image -->
+<!-- End Image -->
+<div class="title-and-desc title desc container"><a class="title" href="/about-cancer/treatment/side-effects">Side Effects of Cancer Treatment</a><!-- start description -->
+<div class="description"><p class="body">Find common side effects caused by cancer or cancer treatments. Know what signs and symptoms to call your doctor about, ways to manage these problems, and treatment options. </p></div><!-- end description --></div><!-- end title & desc container -->
+</li></ul>
+</div>
+
+]]>
+</CategoryDisplay>
+</cde:BestBetsCategory>	

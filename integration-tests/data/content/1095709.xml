@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cde:BestBetsCategory xsi:schemaLocation="http://www.example.org/CDESchema CDESchema.xsd" xmlns:cde="http://www.example.org/CDESchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<CategoryId>
+1095709
+</CategoryId>
+<CategoryName><![CDATA[Lumpectomía]]></CategoryName>
+<CategoryWeight>20</CategoryWeight>
+<IsExactMatch>false</IsExactMatch>
+<Language>es-us</Language>
+<Display>true</Display>
+<IncludeSynonyms></IncludeSynonyms>
+<ExcludeSynonyms></ExcludeSynonyms>
+<CategoryDisplay>
+<![CDATA[
+<div class="managed list">
+<ul>
+<li class="general-list-item general list-item">
+<!-- cgvSnListItemGeneral -->
+<!-- Image -->
+<!-- End Image -->
+<div class="title-and-desc title desc container"><a class="title" href="/espanol/tipos/seno/opciones-de-cirugia">Opciones de cirugía para mujeres con CDIS o con cáncer de seno</a><!-- start description -->
+<div class="description"><p class="body">Explicación de la cirugía conservadora de seno, la mastectomía y la mastectomía con cirugía plástica del seno y comparación de cada una de estas cirugías.</p></div><!-- end description --></div><!-- end title & desc container -->
+</li><li class="general-list-item general list-item">
+<!-- cgvSnListItemGeneral -->
+<!-- Image -->
+<!-- End Image -->
+<div class="title-and-desc title desc container"><a class="title" href="/espanol/tipos/seno/paciente/tratamiento-seno-pdq">Tratamiento del cáncer de seno (mama) (PDQ®)–Versión para pacientes</a><!-- start description -->
+<div class="description"><p class="body">Resumen de información revisada por expertos acerca del tratamiento del cáncer de seno (mama).</p></div><!-- end description --></div><!-- end title & desc container -->
+</li><li class="general-list-item general list-item">
+<!-- cgvSnListItemGeneral -->
+<!-- Image -->
+<!-- End Image -->
+<div class="title-and-desc title desc container"><a class="title" href="/espanol/tipos/seno/pro/tratamiento-seno-pdq">Tratamiento del cáncer de seno (mama) (PDQ®)–Versión para profesionales de salud</a><!-- start description -->
+<div class="description"><p class="body">Resumen de información revisada por expertos acerca del tratamiento del cáncer de seno (mama).</p></div><!-- end description --></div><!-- end title & desc container -->
+</li></ul>
+</div>
+
+]]>
+</CategoryDisplay>
+</cde:BestBetsCategory>	

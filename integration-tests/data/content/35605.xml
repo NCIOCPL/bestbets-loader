@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cde:BestBetsCategory xsi:schemaLocation="http://www.example.org/CDESchema CDESchema.xsd" xmlns:cde="http://www.example.org/CDESchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<CategoryId>
+35605
+</CategoryId>
+<CategoryName><![CDATA[Efectos secundarios de la quimioterapia]]></CategoryName>
+<CategoryWeight>50</CategoryWeight>
+<IsExactMatch>
+true</IsExactMatch>
+<Language>es-us</Language>
+<Display>true</Display>
+<IncludeSynonyms><synonym IsExactMatch="
+true"><![CDATA[chemotherapia y usted]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[cuidados en la quimioterapia]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[efectos secundarios quimioterapia]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[quimioterapia usted]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[efectos quimioterapia]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[efectos de la quimioterapia]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[que es quimioterapia]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[efectos secundarios de la quimioterapia]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[quimo]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[quimoterapia]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[tipos de quimioterapia]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[quimioterapia y usted]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[sintomas despues de la quimoterapia]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[la quimioterapia]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[ayuda durante la quimioterapia]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[que es la quimioterapia]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[tratamiento con quimioterapia]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[complicaciones de la quimioterapia]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[efectos adversos quimioterapia]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[efectos de quimioterapia]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[quimio]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[complicaciones quimioterapia]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[efectos secundarios de quimioterapia]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[quimioterapias]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[efectos de la quimioterapia y la radioterapia]]></synonym>
+</IncludeSynonyms>
+<ExcludeSynonyms></ExcludeSynonyms>
+<CategoryDisplay>
+<![CDATA[
+<div class="managed list">
+<ul>
+<li class="general-list-item general list-item">
+<!-- cgvSnListItemGeneral -->
+<!-- Image -->
+<!-- End Image -->
+<div class="title-and-desc title desc container"><a class="title" href="/espanol/cancer/tratamiento/efectos-secundarios">Efectos secundarios</a><!-- start description -->
+<div class="description"><p class="body">Información sobre los efectos secundarios más comunes causados por el tratamiento del cáncer, entre ellos, anemia, falta de apetito, sangrado y moretones, estreñimiento, infecciones y caída del pelo.</p></div><!-- end description --></div><!-- end title & desc container -->
+</li><li class="general-list-item general list-item">
+<!-- cgvSnListItemGeneral -->
+<!-- Image -->
+<!-- End Image -->
+<div class="title-and-desc title desc container"><a class="title" href="/espanol/publicaciones/educacion-para-pacientes/quimioterapia-y-usted">La quimioterapia y usted: Apoyo para las personas con cáncer</a><!-- start description -->
+<div class="description"><p class="body">Contiene información sobre los efectos secundarios que pueden tener los pacientes durante la quimioterapia y qué hacer para controlarlos.</p></div><!-- end description --></div><!-- end title & desc container -->
+</li><li class="general-list-item general list-item">
+<!-- cgvSnListItemGeneral -->
+<!-- Image -->
+<!-- End Image -->
+<div class="title-and-desc title desc container"><a class="title" href="/espanol/cancer/tratamiento/efectos-secundarios/boca-garganta/complicaciones-orales-pdq">Complicaciones orales de la quimioterapia y la radioterapia a la cabeza y el cuello (PDQ®)–Versión para pacientes</a><!-- start description -->
+<div class="description"><p class="body">Resumen de información revisada por expertos acerca de las complicaciones orales, como la mucositis y la disfunción de la glándula salival, que se presentan en pacientes de cáncer tratados con quimioterapia y radioterapia dirigida a la cabeza y el cuello.</p></div><!-- end description --></div><!-- end title & desc container -->
+</li></ul>
+</div>
+
+]]>
+</CategoryDisplay>
+</cde:BestBetsCategory>	

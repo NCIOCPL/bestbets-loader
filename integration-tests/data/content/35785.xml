@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cde:BestBetsCategory xsi:schemaLocation="http://www.example.org/CDESchema CDESchema.xsd" xmlns:cde="http://www.example.org/CDESchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<CategoryId>
+35785
+</CategoryId>
+<CategoryName><![CDATA[Epidemiology]]></CategoryName>
+<CategoryWeight>20</CategoryWeight>
+<IsExactMatch>false</IsExactMatch>
+<Language>en</Language>
+<Display>true</Display>
+<IncludeSynonyms><synonym IsExactMatch="
+true"><![CDATA[epidemiological]]></synonym>
+<synonym IsExactMatch="false"><![CDATA[epi                                               ]]></synonym>
+<synonym IsExactMatch="
+true"><![CDATA[epidemiologic]]></synonym>
+</IncludeSynonyms>
+<ExcludeSynonyms><synonym IsExactMatch="false"><![CDATA[molecular]]></synonym><synonym IsExactMatch="false"><![CDATA[Program]]></synonym><synonym IsExactMatch="false"><![CDATA[Division]]></synonym><synonym IsExactMatch="false"><![CDATA[Branch]]></synonym><synonym IsExactMatch="false"><![CDATA[breast]]></synonym></ExcludeSynonyms>
+<CategoryDisplay>
+<![CDATA[
+<div class="managed list">
+<ul>
+<li class="general-list-item general list-item">
+<!-- cgvSnListItemGeneral -->
+<!-- Image -->
+<!-- End Image -->
+<div class="title-and-desc title desc container"><a class="title" href="http://dceg.cancer.gov">Division of Cancer Epidemiology and Genetics</a><!-- start description -->
+<div class="description"><p class="body">DCEG conducts population and multidisciplinary research to discover the genetic and environmental determinants of cancer and the means of prevention. </p></div><!-- end description --></div><!-- end title & desc container -->
+</li><li class="general-list-item general list-item">
+<!-- cgvSnListItemGeneral -->
+<!-- Image -->
+<!-- End Image -->
+<div class="title-and-desc title desc container"><a class="title" href="http://seer.cancer.gov">Surveillance, Epidemiology, and End Results (SEER) Program</a><!-- start description -->
+<div class="description"><p class="body">The SEER Program of the NCI is an authoritative source of information on cancer incidence and survival in the United States.</p></div><!-- end description --></div><!-- end title & desc container -->
+</li><li class="general-list-item general list-item">
+<!-- cgvSnListItemGeneral -->
+<!-- Image -->
+<!-- End Image -->
+<div class="title-and-desc title desc container"><a class="title" href="https://epi.grants.cancer.gov/">Epidemiology and Genomics Research Program</a><!-- start description -->
+<div class="description"><p class="body">The Epidemiology and Genomics Research Program in DCCPS funds grants for scientists studying cancer causes and prevention in human populations.</p></div><!-- end description --></div><!-- end title & desc container -->
+</li></ul>
+</div>
+
+]]>
+</CategoryDisplay>
+</cde:BestBetsCategory>	
