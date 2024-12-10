@@ -48,9 +48,9 @@ jobs:
           CI: true
 
       - name: Archive test artifacts
-        uses: actions/upload-artifact@v1
+        uses: actions/upload-artifact@v4
         with:
-          name: test-results
+          name: test-results-${{ matrix.operating-system }}
           path: coverage
 
 
@@ -101,7 +101,7 @@ jobs:
                       \"module\": \"./lib/sources/github-bestbets-source\",
                       \"config\": {
                           \"repoUrl\": \"https://github.com/nciocpl/bestbets-content\",
-                          \"branchName\": \"integration-testing\",
+                          \"ref\": \"integration-testing\",
                           \"resourcesPath\": \"/content\",
                           \"authentication\": {
                               \"token\": \"${GITHUB_TOKEN}\"
@@ -135,32 +135,16 @@ jobs:
           node index.js
 
       - name: Run Integration Test
-        ## Normally bash runs with -e which exits the shell upon hitting
-        ## an error which breaks our capturing of those errors.
-        shell: bash --noprofile --norc -o pipefail {0}
+        shell: bash
         run: |
               ## Run Karate
               ## Variable is picked up by karate-config.js
               export KARATE_ESHOST="http://localhost:${{ job.services.elasticsearch.ports[9200] }}"
               cd integration-tests && ./bin/karate ./features
-              ## Store the exit code off so we can pass this step and
-              ## capture the test output in the next step, but still
-              ## fail the entire job
-              echo "TEST_EXIT_CODE=$?" >> $GITHUB_ENV
-              exit 0
 
       - name: Upload Integration test results
-        uses: actions/upload-artifact@v1
+        if: always()
+        uses: actions/upload-artifact@v4
         with:
           name: integration-test-results
           path: integration-tests/target
-
-      - name: Fail build on bad tests
-        run: |
-              ## Check if we had errors on the test step, and if so, fail the job
-              if [ $TEST_EXIT_CODE -ne 0 ]; then
-                echo "Tests Failed -- See Run Integration Test step or integration-test-results artifact for more information"
-                exit $TEST_EXIT_CODE
-              else
-                echo "Tests passed"
-              fi
